@@ -2,9 +2,9 @@
   "_README": "ONE config file drives the whole tracker (scraper + dashboard). Edit it by hand, or generate it from your CV using docs/cv-to-config-prompt.md. After editing, commit it and re-run the workflows. All matching is case-insensitive substring on the JOB TITLE unless noted.",
 
   "profile": {
-    "title": "Environmental / Toxicology Job Tracker",
-    "subtitle": "California · Oregon · Australia",
-    "emoji": "🧪"
+    "title": "Job Tracker",
+    "subtitle": "US",
+    "emoji": " "
   },
 
   "keywords": {
@@ -32,9 +32,10 @@
     "linkedin": [
       "data analyst",
       "marketing analyst",
-      "product analyst",
+      "senior analyst",
       "business intelligence",
-      "data scientist"
+      "data scientist",
+      "associate"
     ],
     "indeed": [
     ],
@@ -59,8 +60,7 @@
   "locations": {
     "_comment": "LinkedIn needs a geoId (find via the guest endpoint; leave blank to let LinkedIn resolve the text). JobSpy-backed boards such as Indeed, Glassdoor, ZipRecruiter, and Google Jobs need a location + country (USA, Australia, Canada, GB...). HiringCafe currently uses its public US SEO route; locations.hiring_cafe is kept for compatibility. The map auto-fits to wherever the jobs are.",
     "linkedin": [
-     /* { "name": "California",  "location": "California, United States",          "geoId": "102095887" } */
-      { "name": "All locations", "location": "", "geoId": ""}
+        {  "name": "United States",  "location": "United States",   "geoId": "103644278"}
     ],
     "indeed": [
       { "location": "California",   "country": "USA" }
