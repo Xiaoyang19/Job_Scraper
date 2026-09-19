@@ -529,7 +529,7 @@ def scrape_curated_employers() -> list:
 LINKEDIN_SEARCH_TERMS = _cfg("search_terms.linkedin", [])
 
 LINKEDIN_LOOKBACK_SECONDS = 3600          # 1h — every-2h watcher only surfaces the freshest hour
-LINKEDIN_PRIORITY_LOOKBACK_SECONDS = 86400 # 24h — priority digest is a daily 8pm PT run
+LINKEDIN_PRIORITY_LOOKBACK_SECONDS = 604800   # 86400 = 24h — priority digest is a daily 8pm PT run, 604800=7 days
 
 # Geographies to search. geoId is LinkedIn's authoritative region filter; an
 # empty geoId lets LinkedIn resolve the location text (verified to work for
