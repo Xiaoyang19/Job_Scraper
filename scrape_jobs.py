@@ -637,7 +637,7 @@ def _parse_linkedin_cards(html: str) -> tuple[list[dict], int]:
 
 def _linkedin_search(terms: list[str], lookback_seconds: int,
                      geos: list[dict] | None = None,
-                     max_results: int = 500) -> tuple[list[dict], int]:
+                     max_results: int = 300) -> tuple[list[dict], int]:
     """
     Per-geo, per-term, paginated LinkedIn guest-endpoint search. Dedupes by job
     ID across every geography and sorts by recency. Used by both the general
@@ -797,7 +797,7 @@ def _resolve_linkedin_company_ids(names: list[str]) -> list[str]:
 def _linkedin_search_priority_companies(
     terms: list[str],
     lookback_seconds: int,
-    max_results: int = 1000,
+    max_results: int = 300,
 ) -> tuple[list[dict], int]:
     """
     Search LinkedIn with the priority-company filter applied at LinkedIn
@@ -925,7 +925,7 @@ def _linkedin_search_priority_companies(
 
 
 def _linkedin_search_partition(term: str, location: str, lookback_seconds: int,
-                                max_results: int = 1000,
+                                max_results: int = 300,
                                 target_date: str | None = None) -> tuple[list[dict], int, bool]:
     """
     Paginate one (term, location) partition fully (up to 1000 cards).
