@@ -797,7 +797,7 @@ def _resolve_linkedin_company_ids(names: list[str]) -> list[str]:
 def _linkedin_search_priority_companies(
     terms: list[str],
     lookback_seconds: int,
-    max_results: int = 500,
+    max_results: int = 1000,
 ) -> tuple[list[dict], int]:
     """
     Search LinkedIn with the priority-company filter applied at LinkedIn
@@ -819,7 +819,7 @@ def _linkedin_search_priority_companies(
         )
 
     # Smaller groups reduce LinkedIn result-cap problems.
-    chunk_size = 10
+    chunk_size = 100
     company_chunks = [
         company_ids[i:i + chunk_size]
         for i in range(0, len(company_ids), chunk_size)
