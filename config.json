@@ -15,7 +15,9 @@
       "Business Intelligence Engineer", "Campaign Insights Manager", "Reporting Analyst", 
       "Quantitative Analyst", "Senior Data Analyst", "Business Intelligence Developer", 
       "Measurement Analyst", "Insights Analyst", "Analytics Engineer", "Category Analyst", 
-      "Omnichannel", "Data Analyst", "Healthcare Analyst", "Analytics Consultant", "Reporting Analyst"
+      "Omnichannel", "Data Analyst", "Healthcare Analyst", "Analytics Consultant", "Reporting Analyst",
+      "Data Scientist","Marketing Analyst","Product Analyst","Product Analytics",
+      "Customer Analytics","Commercial Analytics","Sales Analytics","HEDIS"
     ],
     "_exclude_comment": "Titles containing any of these are dropped (junior/off-field roles).",
     "exclude": [
@@ -31,11 +33,14 @@
     "_comment": "Queries sent to the job boards' search boxes. Broader than 'keywords' (which then filters the titles).",
     "linkedin": [
       "data analyst",
+      "business analyst",
       "marketing analyst",
-      "senior analyst",
+      "marketing analytics",
+      "customer analytics",
+      "product analyst",
       "business intelligence",
-      "data scientist",
-      "associate"
+      "analytics consultant",
+      "data scientist"
     ],
     "indeed": [
     ],
