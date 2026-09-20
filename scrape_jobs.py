@@ -735,6 +735,194 @@ def _linkedin_search(terms: list[str], lookback_seconds: int,
           f"{' (rate-limited during run)' if _RATE_LIMITED else ''}")
     return jobs, total_raw_cards
 
+def _resolve_linkedin_company_ids(names: list[str]) -> list[str]:
+    """
+    Resolve company names from employers.priority to LinkedIn company IDs
+    using LinkedIn's public company typeahead endpoint.
+    """
+    ids: list[str] = []
+    unresolved: list[str] = []
+    print(f"🏢 Resolving LinkedIn IDs for {len(names)} priority companies...")
+    
+    for name in names:
+        time.sleep(0.5)
+        url = (
+            "https://www.linkedin.com/jobs-guest/api/typeaheadHits"
+            "?typeaheadType=COMPANY"
+            f"&query={urllib.parse.quote(name)}"
+        )
+        raw = fetch(url, retries=2, _base_wait=10.0)
+        company_id = ""
+        if raw:
+            try:
+                data = json.loads(raw)
+            except json.JSONDecodeError:
+                data = []
+                
+            # LinkedIn normally returns a list of company hits.
+            if isinstance(data, list):
+                for hit in data:
+                    if not isinstance(hit, dict):
+                        continue
+
+                    value = hit.get("id")
+                    if value is None:
+                        continue
+
+                    # Handles either "12345" or something containing an ID.
+                    m = re.search(r"(\d+)", str(value))
+                    if m:
+                        company_id = m.group(1)
+                        break
+
+            # Fallback in case LinkedIn changes the JSON shape slightly.
+            if not company_id:
+                m = re.search(r'"id"\s*:\s*"?(?:[^0-9"]*)?(\d+)', raw)
+                if m:
+                    company_id = m.group(1)
+
+        if company_id:
+            ids.append(company_id)
+            print(f"  ✅ {name}: {company_id}")
+        else:
+            unresolved.append(name)
+            print(f"  ⚠️ Could not resolve: {name}")
+    ids = list(dict.fromkeys(ids))
+    print(
+        f"🏢 Company IDs resolved: {len(ids)}/{len(names)}"
+        + (f" · {len(unresolved)} unresolved" if unresolved else "")
+    )
+    return ids
+    
+def _linkedin_search_priority_companies(
+    terms: list[str],
+    lookback_seconds: int,
+    max_results: int = 500,
+) -> tuple[list[dict], int]:
+    """
+    Search LinkedIn with the priority-company filter applied at LinkedIn
+    itself using f_C, instead of searching all US jobs and filtering afterward.
+
+    Company IDs are chunked so the URL stays manageable.
+    """
+
+    global _RATE_LIMITED
+
+    company_ids = _resolve_linkedin_company_ids(PRIORITY_EMPLOYER_NAMES)
+
+    if not company_ids:
+        print("⚠️ No LinkedIn company IDs resolved; falling back to broad search.")
+        return _linkedin_search(
+            terms,
+            lookback_seconds,
+            max_results=max_results,
+        )
+
+    # Smaller groups reduce LinkedIn result-cap problems.
+    chunk_size = 10
+    company_chunks = [
+        company_ids[i:i + chunk_size]
+        for i in range(0, len(company_ids), chunk_size)
+    ]
+
+    print(
+        f"🔎 Searching {len(company_ids)} LinkedIn companies "
+        f"in {len(company_chunks)} company groups..."
+    )
+
+    jobs_by_id: dict[str, dict] = {}
+    total_raw_cards = 0
+    pages_fetched = 0
+
+    for geo in LINKEDIN_GEOS:
+        geo_param = (
+            f"&geoId={geo['geoId']}"
+            if geo.get("geoId")
+            else ""
+        )
+
+        for company_chunk in company_chunks:
+            company_param = "&f_C=" + urllib.parse.quote(
+                ",".join(company_chunk),
+                safe=","
+            )
+
+            for term in terms:
+                for start in range(0, max_results, 10):
+
+                    delay = LINKEDIN_REQUEST_DELAY + random.uniform(0, 2)
+                    if _RATE_LIMITED:
+                        delay += 10
+
+                    time.sleep(delay)
+
+                    url = (
+                        "https://www.linkedin.com/jobs-guest/jobs/api/"
+                        "seeMoreJobPostings/search"
+                        f"?keywords={urllib.parse.quote(term)}"
+                        f"&location={urllib.parse.quote(geo['location'])}"
+                        f"{geo_param}"
+                        f"{company_param}"
+                        f"&f_TPR=r{lookback_seconds}"
+                        f"&start={start}"
+                    )
+
+                    html = fetch(url)
+
+                    # With company filtering, an empty page is normally just
+                    # the end of results for this company-group/query.
+                    if not html.strip():
+                        break
+
+                    parsed, raw_count = _parse_linkedin_cards(html)
+
+                    total_raw_cards += raw_count
+                    pages_fetched += 1
+
+                    if not raw_count:
+                        break
+
+                    for p in parsed:
+                        if p["id"] in jobs_by_id:
+                            continue
+
+                        # Keep both checks:
+                        # 1. actual returned company must still match whitelist
+                        # 2. title must match your configured target titles
+                        if not _is_priority_company(p["company"]):
+                            continue
+
+                        if not role_is_relevant(p["title"], p["company"]):
+                            continue
+
+                        jobs_by_id[p["id"]] = {
+                            "company": p["company"],
+                            "title": p["title"],
+                            "location": p["location"],
+                            "url": (
+                                "https://www.linkedin.com/jobs/view/"
+                                f"{p['id']}/"
+                            ),
+                            "date_posted": p["date_posted"],
+                            "salary": p.get("salary", ""),
+                            "ats": "LinkedIn",
+                        }
+
+                    # Last partial page.
+                    if raw_count < 10:
+                        break
+    jobs = list(jobs_by_id.values())
+    jobs.sort(
+        key=lambda j: -_iso_to_ts(j.get("date_posted", ""))
+    )
+    print(
+        f"✅ Company-filtered LinkedIn search: "
+        f"{pages_fetched} pages · "
+        f"{total_raw_cards} raw cards · "
+        f"{len(jobs)} matching jobs"
+    )
+    return jobs, total_raw_cards
+
 
 def _linkedin_search_partition(term: str, location: str, lookback_seconds: int,
                                 max_results: int = 1000,
@@ -1016,15 +1204,17 @@ def scrape_linkedin_priority() -> list:
     guest endpoint, so we use the env/tox keyword terms + a company allowlist.
     """
     print(f"🏛  Scraping LinkedIn priority employers (last {LINKEDIN_PRIORITY_LOOKBACK_SECONDS // 3600}h)...")
-    raw, raw_cards = _linkedin_search(LINKEDIN_SEARCH_TERMS, LINKEDIN_PRIORITY_LOOKBACK_SECONDS)
+    raw, raw_cards = _linkedin_search_priority_companies(LINKEDIN_SEARCH_TERMS, LINKEDIN_PRIORITY_LOOKBACK_SECONDS)
     if raw_cards == 0:
         # Blocked run: contribute nothing rather than nuke the digest baseline.
         print("  ⛔ LinkedIn returned 0 cards across all terms (likely blocked); "
               "skipping LinkedIn for this digest")
         return []
-    jobs = [j for j in raw if _is_priority_company(j["company"])]
+    jobs = raw
     print(f"  ✅ Priority employers: {len(jobs)} role(s) (from {len(raw)} total)")
-    _enrich_linkedin_postings(jobs)
+    # You only need links for now, so don't spend time fetching
+    # every full job description/salary.
+    # _enrich_linkedin_postings(jobs)
     return jobs
 
 
