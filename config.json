@@ -21,7 +21,7 @@
     ],
     "_exclude_comment": "Titles containing any of these are dropped (junior/off-field roles).",
     "exclude": [
-      "intern", "interns", "internship", "co-op", "coop", "trainee", "volunteer"
+      "intern", "interns", "internship", "co-op", "coop", "trainee", "volunteer","principal","staff"
     ],
     "_fuzzy_comment": "Optional fuzzy pre-filter for LinkedIn title matching. When both fuzzy_seniority and fuzzy_domain are non-empty, role_is_relevant() uses these instead of the exact-phrase keywords.include filter. Catches title variants like 'Director, Engineering' when searching for 'Engineering Director'. Leave all three empty to use keyword-only matching.",
     "fuzzy_seniority": [],
@@ -32,15 +32,23 @@
   "search_terms": {
     "_comment": "Queries sent to the job boards' search boxes. Broader than 'keywords' (which then filters the titles).",
     "linkedin": [
-      "data analyst",
-      "business analyst",
-      "marketing analyst",
-      "marketing analytics",
-      "customer analytics",
-      "product analyst",
-      "business intelligence",
-      "analytics consultant",
-      "data scientist"
+        "Data Analyst",
+  "Senior Data Analyst",
+  "Business Analyst",
+  "Marketing Analyst",
+  "Marketing Analytics",
+  "Customer Analytics",
+  "Customer Insights",
+  "Product Analyst",
+  "Product Analytics",
+  "Business Intelligence",
+  "BI Analyst",
+  "Analytics Consultant",
+  "Commercial Analytics",
+  "Sales Analytics",
+  "Operations Analyst",
+  "Data Scientist",
+  "HEDIS"
     ],
     "indeed": [
     ],
