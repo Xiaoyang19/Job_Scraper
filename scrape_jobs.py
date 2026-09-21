@@ -637,7 +637,7 @@ def _parse_linkedin_cards(html: str) -> tuple[list[dict], int]:
 
 def _linkedin_search(terms: list[str], lookback_seconds: int,
                      geos: list[dict] | None = None,
-                     max_results: int = 300) -> tuple[list[dict], int]:
+                     max_results: int = 1000) -> tuple[list[dict], int]:
     """
     Per-geo, per-term, paginated LinkedIn guest-endpoint search. Dedupes by job
     ID across every geography and sorts by recency. Used by both the general
@@ -797,7 +797,7 @@ def _resolve_linkedin_company_ids(names: list[str]) -> list[str]:
 def _linkedin_search_priority_companies(
     terms: list[str],
     lookback_seconds: int,
-    max_results: int = 300,
+    max_results: int = 1000,
 ) -> tuple[list[dict], int]:
     """
     Search LinkedIn with the priority-company filter applied at LinkedIn
@@ -925,7 +925,7 @@ def _linkedin_search_priority_companies(
 
 
 def _linkedin_search_partition(term: str, location: str, lookback_seconds: int,
-                                max_results: int = 300,
+                                max_results: int = 1000,
                                 target_date: str | None = None) -> tuple[list[dict], int, bool]:
     """
     Paginate one (term, location) partition fully (up to 1000 cards).
@@ -3307,41 +3307,83 @@ h1 {{ font-size: 22px; margin: 0 0 4px 0; }}
 
 def save_results(jobs: list):
     timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    output = {
+        "scraped_at": timestamp,
+        "total": len(jobs),
+        "jobs": jobs
+    }
 
-    output = {"scraped_at": timestamp, "total": len(jobs), "jobs": jobs}
-    with open(os.path.join(OUTPUT_DIR, "jobs.json"), "w", encoding="utf-8") as f:
+    with open(
+        os.path.join(OUTPUT_DIR, "jobs.json"),
+        "w",
+        encoding="utf-8"
+    ) as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
+
+    # CSV output for Excel
+    with open(os.path.join(OUTPUT_DIR, "jobs.csv"), "w",newline="",encoding="utf-8-sig" ) as f:
+        writer = csv.writer(f)
+        writer.writerow(["Job Title", "Company", "Link",  ])
+        for job in sorted(jobs, key=lambda j: ( (j.get("company") or "").lower(), (j.get("title") or "").lower())):
+            writer.writerow([job.get("title", ""),job.get("company", ""),job.get("url", ""), ])
 
     lines = [
         f"# 🏛 Fresh {PROFILE_LABEL} Job Listings ({PROFILE_SUBTITLE})",
         f"*Last updated: {timestamp}*\n",
-        f"**{len(jobs)} role(s) posted in the last 24 hours**\n",
+        f"**{len(jobs)} role(s) posted in the last 7 days**\n",
     ]
 
     for company in sorted(set(j["company"] for j in jobs)):
         company_jobs = [j for j in jobs if j["company"] == company]
-        lines.append(f"## {company} ({len(company_jobs)} role(s))\n")
+
+        lines.append(
+            f"## {company} ({len(company_jobs)} role(s))\n"
+        )
+
         for job in company_jobs:
-            lines.append(f"### [{job['title']}]({job['url']})")
-            lines.append(f"- 📍 **Location:** {job['location'] or 'Not specified'}")
+            lines.append(
+                f"### [{job['title']}]({job['url']})"
+            )
+
+            lines.append(
+                f"- 📍 **Location:** "
+                f"{job['location'] or 'Not specified'}"
+            )
+
             if job.get("date_posted"):
-                lines.append(f"- 📅 **Posted:** {job['date_posted']}")
+                lines.append(
+                    f"- 📅 **Posted:** {job['date_posted']}"
+                )
+
             lines.append("")
 
-    with open(os.path.join(OUTPUT_DIR, "jobs.md"), "w", encoding="utf-8") as f:
+    with open(
+        os.path.join(OUTPUT_DIR, "jobs.md"),
+        "w",
+        encoding="utf-8"
+    ) as f:
         f.write("\n".join(lines))
 
-    with open(os.path.join(OUTPUT_DIR, "jobs.html"), "w", encoding="utf-8") as f:
-        f.write(_render_jobs_html(
-            title=f"🏛 Fresh {PROFILE_LABEL} Job Listings",
-            subtitle=f"{PROFILE_SUBTITLE} · posted in the last 24 hours",
-            timestamp=timestamp,
-            jobs=jobs,
-            empty_message="No priority roles posted in the last 24 hours.",
-            accent="#2ea04f",
-        ))
+    with open(
+        os.path.join(OUTPUT_DIR, "jobs.html"),
+        "w",
+        encoding="utf-8"
+    ) as f:
+        f.write(
+            _render_jobs_html(
+                title=f"🏛 Fresh {PROFILE_LABEL} Job Listings",
+                subtitle=f"{PROFILE_SUBTITLE} · posted in the last 7 days",
+                timestamp=timestamp,
+                jobs=jobs,
+                empty_message="No priority roles posted in the last 7 days.",
+                accent="#2ea04f",
+            )
+        )
 
-    print(f"\n📄 Saved jobs.json/.md/.html ({len(jobs)} total roles)")
+    print(
+        f"\n📄 Saved jobs.json/.md/.html/.csv "
+        f"({len(jobs)} total roles)"
+    )
 
 
 
