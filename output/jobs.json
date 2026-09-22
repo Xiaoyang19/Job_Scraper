@@ -1,8 +1,224 @@
 {
-  "scraped_at": "2026-09-21 09:32 UTC",
-  "total": 225,
-  "new_count": 54,
+  "scraped_at": "2026-09-22 14:28 UTC",
+  "total": 241,
+  "new_count": 51,
   "jobs": [
+    {
+      "company": "UnitedHealthcare",
+      "title": "Senior Data Analyst - MN or PA Markets - Remote",
+      "location": "Minnetonka, MN",
+      "url": "https://www.linkedin.com/jobs/view/4470237787/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Business Analyst I, Verification Services",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4470200744/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Cognizant",
+      "title": "Business Analyst",
+      "location": "Plano, TX",
+      "url": "https://www.linkedin.com/jobs/view/4470239359/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Business Intelligence Engineer, Everyday Essentials Replenishment",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4470205713/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "PNC",
+      "title": "Business Analyst Sr",
+      "location": "Pittsburgh, PA",
+      "url": "https://www.linkedin.com/jobs/view/4468197416/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Wells Fargo",
+      "title": "Analytics Consultant / Deposit Products",
+      "location": "Minneapolis, MN",
+      "url": "https://www.linkedin.com/jobs/view/4470400271/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "UnitedHealthcare",
+      "title": "Data Analyst 2, Part D - Minnetonka, MN",
+      "location": "Minnetonka, MN",
+      "url": "https://www.linkedin.com/jobs/view/4470401316/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Optum",
+      "title": "Business Analyst Consultant, Claims Cost Management - Remote",
+      "location": "Eden Prairie, MN",
+      "url": "https://www.linkedin.com/jobs/view/4470400321/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Optum",
+      "title": "Data Analyst 2",
+      "location": "Plymouth, MN",
+      "url": "https://www.linkedin.com/jobs/view/4470412012/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Optum",
+      "title": "Business Analyst  Hybrid San Antonio, TX",
+      "location": "San Antonio, TX",
+      "url": "https://www.linkedin.com/jobs/view/4470297545/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Google",
+      "title": "Data Scientist",
+      "location": "Cambridge, MA",
+      "url": "https://www.linkedin.com/jobs/view/4460033333/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Optum",
+      "title": "Director of Product Management- Quality, HEDIS or Stars - Remote",
+      "location": "Eden Prairie, MN",
+      "url": "https://www.linkedin.com/jobs/view/4441269578/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Kaiser Permanente",
+      "title": "Data Reporting and Analytics Consultant III",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4468797206/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Kaiser Permanente",
+      "title": "Data Reporting and Analytics Consultant IV, Business Intelligence (NICE CXone)",
+      "location": "Greensboro, NC",
+      "url": "https://www.linkedin.com/jobs/view/4468798249/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Kaiser Permanente",
+      "title": "Data Reporting and Analytics Consultant II, Biostatistics",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469011013/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Google",
+      "title": "Business and Marketing Data Scientist",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4460038229/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Senior Data Analyst",
+      "location": "Redmond, WA",
+      "url": "https://www.linkedin.com/jobs/view/4470435102/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Google",
+      "title": "Senior Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460037282/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Sr. Business Analyst - Retail and Small Business Bank Orgs",
+      "location": "Richmond, VA",
+      "url": "https://www.linkedin.com/jobs/view/4470428974/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Sr. Business Analyst - US Card",
+      "location": "Richmond, VA",
+      "url": "https://www.linkedin.com/jobs/view/4470436805/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Visa",
+      "title": "Data Scientist",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4461241152/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Google",
+      "title": "Business Data Scientist, YouTube Transparency and Compliance Metrics",
+      "location": "San Bruno, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460092748/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Optum",
+      "title": "Product Analyst, Quality Assurance and Delivery - Remote",
+      "location": "Eden Prairie, MN",
+      "url": "https://www.linkedin.com/jobs/view/4470402372/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Google",
+      "title": "Business Data Analyst I, Google Global Infrastructure, Strategy and Operations",
+      "location": "Thornton, CO",
+      "url": "https://www.linkedin.com/jobs/view/4467628642/",
+      "date_posted": "2026-09-21",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
     {
       "company": "Google",
       "title": "Marketing Data Analyst, Global Partnerships",
@@ -13,10 +229,37 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Robert Half",
-      "title": "Business Analyst",
-      "location": "Oklahoma City, OK",
-      "url": "https://www.linkedin.com/jobs/view/4405294918/",
+      "company": "AppLovin",
+      "title": "Data Scientist – Analytics",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454349781/",
+      "date_posted": "2026-09-21",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Business Intelligence Engineer, Listing Analytics",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4468149326/",
+      "date_posted": "2026-09-21",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Insight Global",
+      "title": "Data Visualization and Reporting Analyst",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4467635923/",
+      "date_posted": "2026-09-21",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok",
+      "title": "Data Scientist - TikTok Integrity and Safety (San Jose)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4467673793/",
       "date_posted": "2026-09-21",
       "salary": "",
       "ats": "LinkedIn"
@@ -31,10 +274,181 @@
       "ats": "LinkedIn"
     },
     {
+      "company": "Cognizant",
+      "title": "Supply Chain Analytics Consultant",
+      "location": "Missouri, United States",
+      "url": "https://www.linkedin.com/jobs/view/4469964621/",
+      "date_posted": "2026-09-21",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Insight Global",
+      "title": "Senior Data Analyst",
+      "location": "Phoenix, AZ",
+      "url": "https://www.linkedin.com/jobs/view/4467619706/",
+      "date_posted": "2026-09-21",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Insight Global",
+      "title": "Data Analyst",
+      "location": "Arvada, CO",
+      "url": "https://www.linkedin.com/jobs/view/4467627156/",
+      "date_posted": "2026-09-21",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok",
+      "title": "Lead Data Scientist (User Growth)-TikTok",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468169628/",
+      "date_posted": "2026-09-21",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "EPAM Systems",
+      "title": "Senior Technical Calypso Business Analyst",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4468714711/",
+      "date_posted": "2026-09-21",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Robert Half",
+      "title": "Business Analyst",
+      "location": "Oklahoma City, OK",
+      "url": "https://www.linkedin.com/jobs/view/4405294918/",
+      "date_posted": "2026-09-21",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Kforce Inc",
+      "title": "BI Reporting Analyst III",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469918932/",
+      "date_posted": "2026-09-21",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
       "company": "Indegene",
       "title": "Director Omnichannel Analytics, Hybrid Once a Fortnight",
       "location": "California, United States",
       "url": "https://www.linkedin.com/jobs/view/4468496299/",
+      "date_posted": "2026-09-21",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok",
+      "title": "Data Scientist - Multimedia",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4467694609/",
+      "date_posted": "2026-09-21",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Randstad Digital Americas",
+      "title": "Business Analyst UX Researcher - 11082",
+      "location": "Columbus, OH",
+      "url": "https://www.linkedin.com/jobs/view/4468149511/",
+      "date_posted": "2026-09-21",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Kforce Inc",
+      "title": "Product Analyst",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4469936041/",
+      "date_posted": "2026-09-21",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Randstad Digital Americas",
+      "title": "Supply Chain Business Analyst",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4467608613/",
+      "date_posted": "2026-09-21",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Randstad Digital Americas",
+      "title": "Business Analyst",
+      "location": "Tallahassee, FL",
+      "url": "https://www.linkedin.com/jobs/view/4467607927/",
+      "date_posted": "2026-09-21",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Harvey Nash",
+      "title": "Technical Business Analyst",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4469959588/",
+      "date_posted": "2026-09-21",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Kforce Inc",
+      "title": "Data Analyst - Fleet Operations & Analytics",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469988571/",
+      "date_posted": "2026-09-21",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Harvey Nash",
+      "title": "Business Analyst",
+      "location": "Frankfort, KY",
+      "url": "https://www.linkedin.com/jobs/view/4469921114/",
+      "date_posted": "2026-09-21",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Kforce Inc",
+      "title": "Data Analyst",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469994454/",
+      "date_posted": "2026-09-21",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Insight Global",
+      "title": "Hospital Activation Operational Readiness Business Analyst",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468148200/",
+      "date_posted": "2026-09-21",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Optum",
+      "title": "Senior Data Scientist - Remote",
+      "location": "Eden Prairie, MN",
+      "url": "https://www.linkedin.com/jobs/view/4469975829/",
+      "date_posted": "2026-09-21",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Robert Half",
+      "title": "Data Scientist",
+      "location": "Raleigh, NC",
+      "url": "https://www.linkedin.com/jobs/view/4467609721/",
       "date_posted": "2026-09-21",
       "salary": "",
       "ats": "LinkedIn"
@@ -58,6 +472,15 @@
       "ats": "LinkedIn"
     },
     {
+      "company": "TikTok USDS Joint Venture",
+      "title": "Data Scientist, Platform Responsibility - USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469816299/",
+      "date_posted": "2026-09-20",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
       "company": "Airbnb",
       "title": "Senior Data Scientist, Trust (Inference)",
       "location": "United States",
@@ -71,15 +494,6 @@
       "title": "Manager, Data Scientist - Credit Review",
       "location": "Richmond, VA",
       "url": "https://www.linkedin.com/jobs/view/4410595462/",
-      "date_posted": "2026-09-20",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Data Scientist, Platform Responsibility - USDS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469816299/",
       "date_posted": "2026-09-20",
       "salary": "",
       "ats": "LinkedIn"
@@ -274,10 +688,28 @@
       "ats": "LinkedIn"
     },
     {
+      "company": "Amazon",
+      "title": "Data Scientist II, Worldwide Design Engineering - Data Science",
+      "location": "Bellevue, WA",
+      "url": "https://www.linkedin.com/jobs/view/4460819001/",
+      "date_posted": "2026-09-19",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
       "company": "Microsoft",
       "title": "Senior Data Scientist - Outlook Science Team",
       "location": "Redmond, WA",
       "url": "https://www.linkedin.com/jobs/view/4469534028/",
+      "date_posted": "2026-09-19",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Associate, Data Scientist -  Operational Risk Management",
+      "location": "McLean, VA",
+      "url": "https://www.linkedin.com/jobs/view/4450684644/",
       "date_posted": "2026-09-19",
       "salary": "",
       "ats": "LinkedIn"
@@ -319,24 +751,6 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon",
-      "title": "Data Scientist II, Worldwide Design Engineering - Data Science",
-      "location": "Bellevue, WA",
-      "url": "https://www.linkedin.com/jobs/view/4460819001/",
-      "date_posted": "2026-09-19",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Senior Associate, Data Scientist -  Operational Risk Management",
-      "location": "McLean, VA",
-      "url": "https://www.linkedin.com/jobs/view/4450684644/",
-      "date_posted": "2026-09-19",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "CGI",
       "title": "Sr. Business Analyst",
       "location": "Lafayette, LA",
@@ -346,19 +760,19 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "CGI",
-      "title": "Senior Sunflower Business Analyst",
-      "location": "Lebanon, VA",
-      "url": "https://www.linkedin.com/jobs/view/4469517294/",
+      "company": "Capital One",
+      "title": "Senior Associate, Data Scientist -  Model Risk Office",
+      "location": "Richmond, VA",
+      "url": "https://www.linkedin.com/jobs/view/4361639487/",
       "date_posted": "2026-09-19",
       "salary": "",
       "ats": "LinkedIn"
     },
     {
-      "company": "PNC",
-      "title": "Business Analyst Sr",
-      "location": "Pittsburgh, PA",
-      "url": "https://www.linkedin.com/jobs/view/4460563991/",
+      "company": "CGI",
+      "title": "Senior Sunflower Business Analyst",
+      "location": "Lebanon, VA",
+      "url": "https://www.linkedin.com/jobs/view/4469517294/",
       "date_posted": "2026-09-19",
       "salary": "",
       "ats": "LinkedIn"
@@ -445,10 +859,10 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Capital One",
-      "title": "Senior Associate, Data Scientist -  Model Risk Office",
-      "location": "Richmond, VA",
-      "url": "https://www.linkedin.com/jobs/view/4361639487/",
+      "company": "Robert Half",
+      "title": "Senior Business Analyst",
+      "location": "Santa Monica, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469548015/",
       "date_posted": "2026-09-19",
       "salary": "",
       "ats": "LinkedIn"
@@ -634,6 +1048,33 @@
       "ats": "LinkedIn"
     },
     {
+      "company": "Google",
+      "title": "Research Data Scientist, Search Ads, Google Experience",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4467855306/",
+      "date_posted": "2026-09-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Data Scientist, Fire TV",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4460135408/",
+      "date_posted": "2026-09-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Apex Systems",
+      "title": "Data Analyst - IT IV",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4469189557/",
+      "date_posted": "2026-09-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
       "company": "Deloitte",
       "title": "Data Scientist - AI and Data Science Engineer III",
       "location": "Huntsville, AL",
@@ -652,33 +1093,6 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Google",
-      "title": "Research Data Scientist, Search Ads, Google Experience",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4467855306/",
-      "date_posted": "2026-09-18",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Apex Systems",
-      "title": "Data Analyst - IT IV",
-      "location": "Houston, TX",
-      "url": "https://www.linkedin.com/jobs/view/4469189557/",
-      "date_posted": "2026-09-18",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Data Scientist, Fire TV",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460128894/",
-      "date_posted": "2026-09-18",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "PNC",
       "title": "Senior Business Analyst - Financial Systems",
       "location": "Pittsburgh, PA",
@@ -692,15 +1106,6 @@
       "title": "Business Analyst Senior",
       "location": "Pittsburgh, PA",
       "url": "https://www.linkedin.com/jobs/view/4469177305/",
-      "date_posted": "2026-09-18",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Optum",
-      "title": "Sr. Product Analyst - Remote",
-      "location": "Eden Prairie, MN",
-      "url": "https://www.linkedin.com/jobs/view/4469189322/",
       "date_posted": "2026-09-18",
       "salary": "",
       "ats": "LinkedIn"
@@ -742,15 +1147,6 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Harvey Nash",
-      "title": "Business Analyst",
-      "location": "Frankfort, KY",
-      "url": "https://www.linkedin.com/jobs/view/4468019519/",
-      "date_posted": "2026-09-18",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "Optum",
       "title": "Senior Product Analyst - Clinical Engagement Solutions, Omnichannel Communications Team - National Remote",
       "location": "Schaumburg, IL",
@@ -773,6 +1169,15 @@
       "title": "Front Office Strategy Consulting - Pharma Life Sciences Customer Analytics - Manager",
       "location": "Charlotte, NC",
       "url": "https://www.linkedin.com/jobs/view/4459857993/",
+      "date_posted": "2026-09-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Robert Half",
+      "title": "Senior Data Scientist",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/4467877055/",
       "date_posted": "2026-09-18",
       "salary": "",
       "ats": "LinkedIn"
@@ -805,15 +1210,6 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Robert Half",
-      "title": "Senior Data Scientist",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4467877055/",
-      "date_posted": "2026-09-18",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "Kforce Inc",
       "title": "Product Analyst II",
       "location": "Los Angeles, CA",
@@ -841,37 +1237,10 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Kforce Inc",
-      "title": "Data Analyst",
-      "location": "St Louis, MO",
-      "url": "https://www.linkedin.com/jobs/view/4469253747/",
-      "date_posted": "2026-09-18",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "Akkodis",
       "title": "Data Analyst",
       "location": "Richmond, VA",
       "url": "https://www.linkedin.com/jobs/view/4467879635/",
-      "date_posted": "2026-09-18",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Insight Global",
-      "title": "Data Analyst (Utilities)",
-      "location": "Dallas-Fort Worth Metroplex",
-      "url": "https://www.linkedin.com/jobs/view/4467850938/",
-      "date_posted": "2026-09-18",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Optum",
-      "title": "Senior Data Scientist - Payment Integrity AI/ML - Remote",
-      "location": "Eden Prairie, MN",
-      "url": "https://www.linkedin.com/jobs/view/4469251345/",
       "date_posted": "2026-09-18",
       "salary": "",
       "ats": "LinkedIn"
@@ -1111,19 +1480,28 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Duolingo",
-      "title": "Senior Data Scientist, Growth Forecasting",
-      "location": "Pittsburgh, PA",
-      "url": "https://www.linkedin.com/jobs/view/4459371324/",
+      "company": "Cardinal Health",
+      "title": "Product Manager, Product and Solutions Marketing Analytics",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/4457711061/",
+      "date_posted": "2026-09-17",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Data Scientist II, Prime Air",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4468308831/",
       "date_posted": "2026-09-17",
       "salary": "",
       "ats": "LinkedIn"
     },
     {
       "company": "Duolingo",
-      "title": "Senior Data Scientist, User Growth",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4459371351/",
+      "title": "Senior Data Scientist, Growth Forecasting",
+      "location": "Pittsburgh, PA",
+      "url": "https://www.linkedin.com/jobs/view/4459371324/",
       "date_posted": "2026-09-17",
       "salary": "",
       "ats": "LinkedIn"
@@ -1142,6 +1520,24 @@
       "title": "Senior Data Scientist - Media Data Science & Analytics",
       "location": "Redmond, WA",
       "url": "https://www.linkedin.com/jobs/view/4449489999/",
+      "date_posted": "2026-09-17",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Duolingo",
+      "title": "Senior Data Scientist, User Growth",
+      "location": "Pittsburgh, PA",
+      "url": "https://www.linkedin.com/jobs/view/4459364412/",
+      "date_posted": "2026-09-17",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "eBay",
+      "title": "AI Analytics Engineer - Traffic",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4466611821/",
       "date_posted": "2026-09-17",
       "salary": "",
       "ats": "LinkedIn"
@@ -1192,15 +1588,6 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Cardinal Health",
-      "title": "Product Manager, Product and Solutions Marketing Analytics",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4457711061/",
-      "date_posted": "2026-09-17",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "Kforce Inc",
       "title": "Audience Insights Measurement Analyst",
       "location": "Chicago, IL",
@@ -1228,37 +1615,10 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon",
-      "title": "Sr. Product & Customer Insights Manager, Customer Experience and Business Trends",
-      "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4459624314/",
-      "date_posted": "2026-09-17",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Data Scientist II, Prime Air",
-      "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4468308831/",
-      "date_posted": "2026-09-17",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "Google",
       "title": "Senior Manager, Business Data Scientist, Search+, GBO Product Finance",
       "location": "Mountain View, CA",
       "url": "https://www.linkedin.com/jobs/view/4467540601/",
-      "date_posted": "2026-09-17",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "PNC",
-      "title": "Data Scientist",
-      "location": "Pittsburgh, PA",
-      "url": "https://www.linkedin.com/jobs/view/4468346612/",
       "date_posted": "2026-09-17",
       "salary": "",
       "ats": "LinkedIn"
@@ -1300,28 +1660,10 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Apex Systems",
-      "title": "US|Business Analyst II",
-      "location": "Richmond, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468830518/",
-      "date_posted": "2026-09-17",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "Paramount",
       "title": "Director, Analytics Engineering",
       "location": "New York, NY",
       "url": "https://www.linkedin.com/jobs/view/4459647097/",
-      "date_posted": "2026-09-17",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "eBay",
-      "title": "AI Analytics Engineer - Traffic",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4466611821/",
       "date_posted": "2026-09-17",
       "salary": "",
       "ats": "LinkedIn"
@@ -1345,24 +1687,6 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Citi",
-      "title": "Prime Services & Delta One Quantitative Analyst - Director",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4459638160/",
-      "date_posted": "2026-09-17",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Apex Systems",
-      "title": "US|Business Analyst II",
-      "location": "Richmond, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468830518/",
-      "date_posted": "2026-09-17",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "Kforce Inc",
       "title": "Data Analyst 4",
       "location": "Redmond, WA",
@@ -1373,9 +1697,9 @@
     },
     {
       "company": "Citi",
-      "title": "Senior Quantitative Analyst, Agency Prepayment Modeling",
+      "title": "Prime Services & Delta One Quantitative Analyst - Director",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4467812347/",
+      "url": "https://www.linkedin.com/jobs/view/4449362187/",
       "date_posted": "2026-09-17",
       "salary": "",
       "ats": "LinkedIn"
@@ -1516,15 +1840,6 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Apex Systems",
-      "title": "Business Analyst I",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4467907364/",
-      "date_posted": "2026-09-16",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "LinkedIn",
       "title": "Senior Data Scientist",
       "location": "Sunnyvale, CA",
@@ -1534,19 +1849,10 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "CGI",
-      "title": "Senior-Level Business Analyst",
-      "location": "North Charleston, SC",
-      "url": "https://www.linkedin.com/jobs/view/4467442455/",
-      "date_posted": "2026-09-16",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "CGI",
-      "title": "Business Analyst -- Entry Level",
-      "location": "Miami, FL",
-      "url": "https://www.linkedin.com/jobs/view/4467947088/",
+      "company": "Apex Systems",
+      "title": "Customer Experience Analytics Data Scientist",
+      "location": "Merrifield, VA",
+      "url": "https://www.linkedin.com/jobs/view/4467905372/",
       "date_posted": "2026-09-16",
       "salary": "",
       "ats": "LinkedIn"
@@ -1561,10 +1867,28 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Optum",
-      "title": "ERP Business Analyst",
-      "location": "Eden Prairie, MN",
-      "url": "https://www.linkedin.com/jobs/view/4468256156/",
+      "company": "CGI",
+      "title": "Senior-Level Business Analyst",
+      "location": "North Charleston, SC",
+      "url": "https://www.linkedin.com/jobs/view/4467442455/",
+      "date_posted": "2026-09-16",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Manager, Data Scientist- Capital One Data Insights and Analytics",
+      "location": "McLean, VA",
+      "url": "https://www.linkedin.com/jobs/view/4467976271/",
+      "date_posted": "2026-09-16",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "CGI",
+      "title": "Business Analyst -- Entry Level",
+      "location": "Miami, FL",
+      "url": "https://www.linkedin.com/jobs/view/4467947088/",
       "date_posted": "2026-09-16",
       "salary": "",
       "ats": "LinkedIn"
@@ -1598,15 +1922,6 @@
     },
     {
       "company": "Apex Systems",
-      "title": "Customer Experience Analytics Data Scientist",
-      "location": "Merrifield, VA",
-      "url": "https://www.linkedin.com/jobs/view/4467905372/",
-      "date_posted": "2026-09-16",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Apex Systems",
       "title": "Sr. Digital Data Analyst",
       "location": "Atlanta, GA",
       "url": "https://www.linkedin.com/jobs/view/4468233708/",
@@ -1619,15 +1934,6 @@
       "title": "Senior Associate, Data Scientist - Card Intelligence",
       "location": "McLean, VA",
       "url": "https://www.linkedin.com/jobs/view/4467968356/",
-      "date_posted": "2026-09-16",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Manager, Data Scientist- Capital One Data Insights and Analytics",
-      "location": "McLean, VA",
-      "url": "https://www.linkedin.com/jobs/view/4467976271/",
       "date_posted": "2026-09-16",
       "salary": "",
       "ats": "LinkedIn"
@@ -1664,15 +1970,6 @@
       "title": "Business Analyst V",
       "location": "Houston, TX",
       "url": "https://www.linkedin.com/jobs/view/4467950602/",
-      "date_posted": "2026-09-16",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Randstad Digital Americas",
-      "title": "Business Analyst",
-      "location": "Durham, NC",
-      "url": "https://www.linkedin.com/jobs/view/4467104953/",
       "date_posted": "2026-09-16",
       "salary": "",
       "ats": "LinkedIn"
@@ -1723,15 +2020,6 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon",
-      "title": "Business Analyst, Listing Analytics",
-      "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4467403604/",
-      "date_posted": "2026-09-15",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "TikTok",
       "title": "Business Analyst, Monetization",
       "location": "San Jose, CA",
@@ -1763,15 +2051,6 @@
       "title": "Senior Measurement Analyst, North America",
       "location": "New York, United States",
       "url": "https://www.linkedin.com/jobs/view/4466584908/",
-      "date_posted": "2026-09-15",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NielsenIQ",
-      "title": "Brand Insights Analyst",
-      "location": "Ohio, OH",
-      "url": "https://www.linkedin.com/jobs/view/4466576739/",
       "date_posted": "2026-09-15",
       "salary": "",
       "ats": "LinkedIn"
@@ -1813,15 +2092,6 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon",
-      "title": "Sr. Business Intelligence Engineer",
-      "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4467416454/",
-      "date_posted": "2026-09-15",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "Wells Fargo",
       "title": "Analytics Consultant – Financial Crimes (contract)",
       "location": "Charlotte, NC",
@@ -1833,8 +2103,8 @@
     {
       "company": "Deloitte",
       "title": "Senior QuickSight Analytics Engineer",
-      "location": "Baltimore, MD",
-      "url": "https://www.linkedin.com/jobs/view/4458580979/",
+      "location": "Arlington, VA",
+      "url": "https://www.linkedin.com/jobs/view/4458577916/",
       "date_posted": "2026-09-15",
       "salary": "",
       "ats": "LinkedIn"
@@ -1849,127 +2119,10 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Robert Half",
-      "title": "Data Scientist",
-      "location": "Dallas, TX",
-      "url": "https://www.linkedin.com/jobs/view/4466523887/",
-      "date_posted": "2026-09-15",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "Cognizant",
       "title": "Manager (Business Analyst -Airline MRO)",
       "location": "Atlanta, GA",
       "url": "https://www.linkedin.com/jobs/view/4448250069/",
-      "date_posted": "2026-09-15",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "CGI",
-      "title": "Functional/Business Analyst (FDA)",
-      "location": "Fairfax, VA",
-      "url": "https://www.linkedin.com/jobs/view/4467428607/",
-      "date_posted": "2026-09-15",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Indegene",
-      "title": "Business Analyst-Veeva CRM",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4467777855/",
-      "date_posted": "2026-09-15",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Deloitte",
-      "title": "GCP Cloud Analytics Engineer",
-      "location": "Greater Indianapolis",
-      "url": "https://www.linkedin.com/jobs/view/4422380439/",
-      "date_posted": "2026-09-15",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Visa",
-      "title": "Product Analyst, Visa Pay Commercialization",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4452602127/",
-      "date_posted": "2026-09-15",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Apex Systems",
-      "title": "Sr. Technical Data Analyst",
-      "location": "Tampa, FL",
-      "url": "https://www.linkedin.com/jobs/view/4466547091/",
-      "date_posted": "2026-09-15",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Part-Time Applied Data Scientist",
-      "location": "Cambridge, MA",
-      "url": "https://www.linkedin.com/jobs/view/4467751256/",
-      "date_posted": "2026-09-15",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Apex Systems",
-      "title": "Applied AI/ML Engineer / Data Scientist",
-      "location": "Juno Beach, FL",
-      "url": "https://www.linkedin.com/jobs/view/4466541201/",
-      "date_posted": "2026-09-15",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Insight Global",
-      "title": "Sr. Data Scientist",
-      "location": "Spring, TX",
-      "url": "https://www.linkedin.com/jobs/view/4466579910/",
-      "date_posted": "2026-09-15",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Insight Global",
-      "title": "Data Scientist IV",
-      "location": "Colorado, United States",
-      "url": "https://www.linkedin.com/jobs/view/4466595388/",
-      "date_posted": "2026-09-15",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Cognizant",
-      "title": "Manager (Business Analyst -Airline MRO)",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4448250069/",
-      "date_posted": "2026-09-15",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "CGI",
-      "title": "Functional/Business Analyst (FDA)",
-      "location": "Fairfax, VA",
-      "url": "https://www.linkedin.com/jobs/view/4467428607/",
-      "date_posted": "2026-09-15",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Indegene",
-      "title": "Business Analyst-Veeva CRM",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4467777855/",
       "date_posted": "2026-09-15",
       "salary": "",
       "ats": "LinkedIn"
@@ -1993,19 +2146,19 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Capital One",
-      "title": "Part-Time Applied Data Scientist",
-      "location": "Cambridge, MA",
-      "url": "https://www.linkedin.com/jobs/view/4467751256/",
+      "company": "Apex Systems",
+      "title": "Sr. Technical Data Analyst",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4466547091/",
       "date_posted": "2026-09-15",
       "salary": "",
       "ats": "LinkedIn"
     },
     {
-      "company": "Apex Systems",
-      "title": "Sr. Technical Data Analyst",
-      "location": "Tampa, FL",
-      "url": "https://www.linkedin.com/jobs/view/4466547091/",
+      "company": "Capital One",
+      "title": "Part-Time Applied Data Scientist",
+      "location": "Cambridge, MA",
+      "url": "https://www.linkedin.com/jobs/view/4467751256/",
       "date_posted": "2026-09-15",
       "salary": "",
       "ats": "LinkedIn"
@@ -2018,231 +2171,375 @@
       "date_posted": "2026-09-15",
       "salary": "",
       "ats": "LinkedIn"
-    },
+    }
+  ],
+  "new_jobs": [
     {
-      "company": "Cardinal Health",
-      "title": "Data Analyst",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4465248408/",
-      "date_posted": "2026-09-14",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Google",
-      "title": "Business Data Analyst, Procurement",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4466100150/",
-      "date_posted": "2026-09-14",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Citi",
-      "title": "Business and Data Analyst, Capital Markets - Assistant Vice President",
-      "location": "Tampa, FL",
-      "url": "https://www.linkedin.com/jobs/view/4466127634/",
-      "date_posted": "2026-09-14",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Forecasting and Workforce Management Data Analyst",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467056035/",
-      "date_posted": "2026-09-14",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "M&T Bank",
-      "title": "Data Scientist – Technology and Enterprise Operations First Line Risk",
-      "location": "Wilmington, DE",
-      "url": "https://www.linkedin.com/jobs/view/4467292873/",
-      "date_posted": "2026-09-14",
+      "company": "UnitedHealthcare",
+      "title": "Senior Data Analyst - MN or PA Markets - Remote",
+      "location": "Minnetonka, MN",
+      "url": "https://www.linkedin.com/jobs/view/4470237787/",
+      "date_posted": "2026-09-22",
       "salary": "",
       "ats": "LinkedIn"
     },
     {
       "company": "Amazon",
-      "title": "Sr Business Intelligence Engineer III, SCOT - Long Term Planning and Forecasting",
-      "location": "Bellevue, WA",
-      "url": "https://www.linkedin.com/jobs/view/4467069960/",
-      "date_posted": "2026-09-14",
+      "title": "Business Analyst I, Verification Services",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4470200744/",
+      "date_posted": "2026-09-22",
       "salary": "",
       "ats": "LinkedIn"
     },
     {
-      "company": "Goldman Sachs",
-      "title": "Global Banking & Markets - Transaction Banking - Channels Product Analyst - Dallas",
-      "location": "Dallas, TX",
-      "url": "https://www.linkedin.com/jobs/view/4466120908/",
-      "date_posted": "2026-09-14",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Kforce Inc",
+      "company": "Cognizant",
       "title": "Business Analyst",
-      "location": "Covington, KY",
-      "url": "https://www.linkedin.com/jobs/view/4467286935/",
-      "date_posted": "2026-09-14",
+      "location": "Plano, TX",
+      "url": "https://www.linkedin.com/jobs/view/4470239359/",
+      "date_posted": "2026-09-22",
       "salary": "",
       "ats": "LinkedIn"
     },
     {
-      "company": "Apex Systems",
-      "title": "Data Analyst/Report Writer 3",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4467288893/",
-      "date_posted": "2026-09-14",
+      "company": "Amazon",
+      "title": "Business Intelligence Engineer, Everyday Essentials Replenishment",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4470205713/",
+      "date_posted": "2026-09-22",
       "salary": "",
       "ats": "LinkedIn"
     },
     {
-      "company": "Kforce Inc",
-      "title": "ServiceNow & Power BI Reporting Analyst",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4467298193/",
-      "date_posted": "2026-09-14",
+      "company": "PNC",
+      "title": "Business Analyst Sr",
+      "location": "Pittsburgh, PA",
+      "url": "https://www.linkedin.com/jobs/view/4468197416/",
+      "date_posted": "2026-09-22",
       "salary": "",
       "ats": "LinkedIn"
     },
     {
-      "company": "Insight Global",
-      "title": "Collections Operations Business Analyst",
-      "location": "Charlotte, NC",
-      "url": "https://www.linkedin.com/jobs/view/4466126091/",
-      "date_posted": "2026-09-14",
+      "company": "Wells Fargo",
+      "title": "Analytics Consultant / Deposit Products",
+      "location": "Minneapolis, MN",
+      "url": "https://www.linkedin.com/jobs/view/4470400271/",
+      "date_posted": "2026-09-22",
       "salary": "",
       "ats": "LinkedIn"
-    }
-  ],
-  "new_jobs": [
+    },
+    {
+      "company": "UnitedHealthcare",
+      "title": "Data Analyst 2, Part D - Minnetonka, MN",
+      "location": "Minnetonka, MN",
+      "url": "https://www.linkedin.com/jobs/view/4470401316/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Optum",
+      "title": "Business Analyst Consultant, Claims Cost Management - Remote",
+      "location": "Eden Prairie, MN",
+      "url": "https://www.linkedin.com/jobs/view/4470400321/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Optum",
+      "title": "Data Analyst 2",
+      "location": "Plymouth, MN",
+      "url": "https://www.linkedin.com/jobs/view/4470412012/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Optum",
+      "title": "Business Analyst  Hybrid San Antonio, TX",
+      "location": "San Antonio, TX",
+      "url": "https://www.linkedin.com/jobs/view/4470297545/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
     {
       "company": "Google",
-      "title": "Marketing Data Analyst, Global Partnerships",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468711511/",
-      "date_posted": "2026-09-21",
+      "title": "Data Scientist",
+      "location": "Cambridge, MA",
+      "url": "https://www.linkedin.com/jobs/view/4460033333/",
+      "date_posted": "2026-09-22",
       "salary": "",
       "ats": "LinkedIn"
     },
     {
-      "company": "Robert Half",
-      "title": "Business Analyst",
-      "location": "Oklahoma City, OK",
-      "url": "https://www.linkedin.com/jobs/view/4405294918/",
+      "company": "Optum",
+      "title": "Director of Product Management- Quality, HEDIS or Stars - Remote",
+      "location": "Eden Prairie, MN",
+      "url": "https://www.linkedin.com/jobs/view/4441269578/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Kaiser Permanente",
+      "title": "Data Reporting and Analytics Consultant III",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4468797206/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Kaiser Permanente",
+      "title": "Data Reporting and Analytics Consultant IV, Business Intelligence (NICE CXone)",
+      "location": "Greensboro, NC",
+      "url": "https://www.linkedin.com/jobs/view/4468798249/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Kaiser Permanente",
+      "title": "Data Reporting and Analytics Consultant II, Biostatistics",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469011013/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Google",
+      "title": "Business and Marketing Data Scientist",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4460038229/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Senior Data Analyst",
+      "location": "Redmond, WA",
+      "url": "https://www.linkedin.com/jobs/view/4470435102/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Google",
+      "title": "Senior Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460037282/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Sr. Business Analyst - Retail and Small Business Bank Orgs",
+      "location": "Richmond, VA",
+      "url": "https://www.linkedin.com/jobs/view/4470428974/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Sr. Business Analyst - US Card",
+      "location": "Richmond, VA",
+      "url": "https://www.linkedin.com/jobs/view/4470436805/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Visa",
+      "title": "Data Scientist",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4461241152/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Google",
+      "title": "Business Data Scientist, YouTube Transparency and Compliance Metrics",
+      "location": "San Bruno, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460092748/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Optum",
+      "title": "Product Analyst, Quality Assurance and Delivery - Remote",
+      "location": "Eden Prairie, MN",
+      "url": "https://www.linkedin.com/jobs/view/4470402372/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Google",
+      "title": "Business Data Analyst I, Google Global Infrastructure, Strategy and Operations",
+      "location": "Thornton, CO",
+      "url": "https://www.linkedin.com/jobs/view/4467628642/",
       "date_posted": "2026-09-21",
       "salary": "",
       "ats": "LinkedIn"
     },
     {
       "company": "AppLovin",
-      "title": "Measurement Data Scientist",
+      "title": "Data Scientist – Analytics",
       "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454342815/",
+      "url": "https://www.linkedin.com/jobs/view/4454349781/",
       "date_posted": "2026-09-21",
       "salary": "",
       "ats": "LinkedIn"
     },
     {
-      "company": "Indegene",
-      "title": "Director Omnichannel Analytics, Hybrid Once a Fortnight",
-      "location": "California, United States",
-      "url": "https://www.linkedin.com/jobs/view/4468496299/",
+      "company": "Amazon",
+      "title": "Business Intelligence Engineer, Listing Analytics",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4468149326/",
       "date_posted": "2026-09-21",
       "salary": "",
       "ats": "LinkedIn"
     },
     {
-      "company": "Capital One",
-      "title": "Director, Data Scientist - External Data Strategy",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4360725551/",
-      "date_posted": "2026-09-20",
+      "company": "Insight Global",
+      "title": "Data Visualization and Reporting Analyst",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4467635923/",
+      "date_posted": "2026-09-21",
       "salary": "",
       "ats": "LinkedIn"
     },
     {
-      "company": "Roku",
-      "title": "Senior Data Scientist",
+      "company": "TikTok",
+      "title": "Data Scientist - TikTok Integrity and Safety (San Jose)",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413456883/",
-      "date_posted": "2026-09-19",
+      "url": "https://www.linkedin.com/jobs/view/4467673793/",
+      "date_posted": "2026-09-21",
       "salary": "",
       "ats": "LinkedIn"
     },
     {
-      "company": "Deloitte",
-      "title": "US E ES - Lead Data Scientist GenAI, Financial Planning & Analysis - Strategic Analytics",
-      "location": "Memphis, TN",
-      "url": "https://www.linkedin.com/jobs/view/4441223901/",
-      "date_posted": "2026-09-19",
+      "company": "Cognizant",
+      "title": "Supply Chain Analytics Consultant",
+      "location": "Missouri, United States",
+      "url": "https://www.linkedin.com/jobs/view/4469964621/",
+      "date_posted": "2026-09-21",
       "salary": "",
       "ats": "LinkedIn"
     },
     {
-      "company": "Capital One",
-      "title": "Senior Manager, Data Scientist - US Card (Generative AI Systems)",
-      "location": "McLean, VA",
-      "url": "https://www.linkedin.com/jobs/view/4360735603/",
-      "date_posted": "2026-09-19",
+      "company": "Insight Global",
+      "title": "Senior Data Analyst",
+      "location": "Phoenix, AZ",
+      "url": "https://www.linkedin.com/jobs/view/4467619706/",
+      "date_posted": "2026-09-21",
       "salary": "",
       "ats": "LinkedIn"
     },
     {
-      "company": "Robert Half",
-      "title": "Business Analytics/Data Analyst",
-      "location": "Santa Ana, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469521988/",
-      "date_posted": "2026-09-19",
+      "company": "Insight Global",
+      "title": "Data Analyst",
+      "location": "Arvada, CO",
+      "url": "https://www.linkedin.com/jobs/view/4467627156/",
+      "date_posted": "2026-09-21",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok",
+      "title": "Lead Data Scientist (User Growth)-TikTok",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468169628/",
+      "date_posted": "2026-09-21",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "EPAM Systems",
+      "title": "Senior Technical Calypso Business Analyst",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4468714711/",
+      "date_posted": "2026-09-21",
       "salary": "",
       "ats": "LinkedIn"
     },
     {
       "company": "Kforce Inc",
-      "title": "Power BI - Visualization and Reporting Analyst",
-      "location": "Deerfield Beach, FL",
-      "url": "https://www.linkedin.com/jobs/view/4413766040/",
-      "date_posted": "2026-09-19",
+      "title": "BI Reporting Analyst III",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469918932/",
+      "date_posted": "2026-09-21",
       "salary": "",
       "ats": "LinkedIn"
     },
     {
-      "company": "Robert Half",
-      "title": "Data Analyst",
-      "location": "Greenville, SC",
-      "url": "https://www.linkedin.com/jobs/view/4469169077/",
-      "date_posted": "2026-09-18",
+      "company": "TikTok",
+      "title": "Data Scientist - Multimedia",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4467694609/",
+      "date_posted": "2026-09-21",
       "salary": "",
       "ats": "LinkedIn"
     },
     {
-      "company": "Apex Systems",
-      "title": "IT - Data Analyst - Expert",
+      "company": "Randstad Digital Americas",
+      "title": "Business Analyst UX Researcher - 11082",
+      "location": "Columbus, OH",
+      "url": "https://www.linkedin.com/jobs/view/4468149511/",
+      "date_posted": "2026-09-21",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Kforce Inc",
+      "title": "Product Analyst",
       "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4469190337/",
-      "date_posted": "2026-09-18",
+      "url": "https://www.linkedin.com/jobs/view/4469936041/",
+      "date_posted": "2026-09-21",
       "salary": "",
       "ats": "LinkedIn"
     },
     {
-      "company": "Apex Systems",
-      "title": "Data Analyst - IT IV",
-      "location": "Houston, TX",
-      "url": "https://www.linkedin.com/jobs/view/4469189557/",
-      "date_posted": "2026-09-18",
+      "company": "Randstad Digital Americas",
+      "title": "Supply Chain Business Analyst",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4467608613/",
+      "date_posted": "2026-09-21",
       "salary": "",
       "ats": "LinkedIn"
     },
     {
-      "company": "Robert Half",
-      "title": "D365 CE Business Analyst",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4468014093/",
-      "date_posted": "2026-09-18",
+      "company": "Randstad Digital Americas",
+      "title": "Business Analyst",
+      "location": "Tallahassee, FL",
+      "url": "https://www.linkedin.com/jobs/view/4467607927/",
+      "date_posted": "2026-09-21",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Harvey Nash",
+      "title": "Technical Business Analyst",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4469959588/",
+      "date_posted": "2026-09-21",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Kforce Inc",
+      "title": "Data Analyst - Fleet Operations & Analytics",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469988571/",
+      "date_posted": "2026-09-21",
       "salary": "",
       "ats": "LinkedIn"
     },
@@ -2250,359 +2547,89 @@
       "company": "Harvey Nash",
       "title": "Business Analyst",
       "location": "Frankfort, KY",
-      "url": "https://www.linkedin.com/jobs/view/4468019519/",
-      "date_posted": "2026-09-18",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Robert Half",
-      "title": "Senior Data Scientist",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4467877055/",
-      "date_posted": "2026-09-18",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Kforce Inc",
-      "title": "Product Analyst II",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469193464/",
-      "date_posted": "2026-09-18",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Randstad Digital Americas",
-      "title": "Product Analyst",
-      "location": "Covington, KY",
-      "url": "https://www.linkedin.com/jobs/view/4468018471/",
-      "date_posted": "2026-09-18",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Robert Half",
-      "title": "Sr. Business Analyst",
-      "location": "Urbandale, IA",
-      "url": "https://www.linkedin.com/jobs/view/4469148989/",
-      "date_posted": "2026-09-18",
+      "url": "https://www.linkedin.com/jobs/view/4469921114/",
+      "date_posted": "2026-09-21",
       "salary": "",
       "ats": "LinkedIn"
     },
     {
       "company": "Kforce Inc",
       "title": "Data Analyst",
-      "location": "St Louis, MO",
-      "url": "https://www.linkedin.com/jobs/view/4469253747/",
-      "date_posted": "2026-09-18",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Akkodis",
-      "title": "Data Analyst",
-      "location": "Richmond, VA",
-      "url": "https://www.linkedin.com/jobs/view/4467879635/",
-      "date_posted": "2026-09-18",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469994454/",
+      "date_posted": "2026-09-21",
       "salary": "",
       "ats": "LinkedIn"
     },
     {
       "company": "Insight Global",
-      "title": "Data Analyst (Utilities)",
-      "location": "Dallas-Fort Worth Metroplex",
-      "url": "https://www.linkedin.com/jobs/view/4467850938/",
+      "title": "Hospital Activation Operational Readiness Business Analyst",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468148200/",
+      "date_posted": "2026-09-21",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Optum",
+      "title": "Senior Data Scientist - Remote",
+      "location": "Eden Prairie, MN",
+      "url": "https://www.linkedin.com/jobs/view/4469975829/",
+      "date_posted": "2026-09-21",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Robert Half",
+      "title": "Data Scientist",
+      "location": "Raleigh, NC",
+      "url": "https://www.linkedin.com/jobs/view/4467609721/",
+      "date_posted": "2026-09-21",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Robert Half",
+      "title": "Senior Business Analyst",
+      "location": "Santa Monica, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469548015/",
+      "date_posted": "2026-09-19",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Data Scientist, Fire TV",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4460135408/",
       "date_posted": "2026-09-18",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Kaiser Permanente",
-      "title": "Oncology Data Analyst I",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467572716/",
-      "date_posted": "2026-09-17",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Randstad Digital Americas",
-      "title": "Data Analyst - Regulatory Operations",
-      "location": "Charlotte, NC",
-      "url": "https://www.linkedin.com/jobs/view/4467597513/",
-      "date_posted": "2026-09-17",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Google",
-      "title": "Business Data Scientist, Subscriptions and Customer Growth Marketing",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4457954964/",
-      "date_posted": "2026-09-17",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "PwC",
-      "title": "Front Office Strategy Consulting - Pharma Life Sciences Customer Analytics - Senior Associate",
-      "location": "Charlotte, NC",
-      "url": "https://www.linkedin.com/jobs/view/4459621313/",
-      "date_posted": "2026-09-17",
       "salary": "",
       "ats": "LinkedIn"
     },
     {
       "company": "Duolingo",
       "title": "Senior Data Scientist, User Growth",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4459371351/",
-      "date_posted": "2026-09-17",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "UnitedHealthcare",
-      "title": "Senior Data Analyst - 2390440",
-      "location": "Minnetonka, MN",
-      "url": "https://www.linkedin.com/jobs/view/4468662478/",
-      "date_posted": "2026-09-17",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Akkodis",
-      "title": "Sr. SAP FICO Business Analyst",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4466263708/",
-      "date_posted": "2026-09-17",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Google",
-      "title": "Senior Manager, Business Data Scientist, Search+, GBO Product Finance",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467540601/",
-      "date_posted": "2026-09-17",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Kforce Inc",
-      "title": "Business Analyst / Product Manager",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4468673189/",
-      "date_posted": "2026-09-17",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Apex Systems",
-      "title": "US|Business Analyst II",
-      "location": "Richmond, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468830518/",
-      "date_posted": "2026-09-17",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "eBay",
-      "title": "AI Analytics Engineer - Traffic",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4466611821/",
+      "location": "Pittsburgh, PA",
+      "url": "https://www.linkedin.com/jobs/view/4459364412/",
       "date_posted": "2026-09-17",
       "salary": "",
       "ats": "LinkedIn"
     },
     {
       "company": "Citi",
-      "title": "Senior Quantitative Analyst, Agency Prepayment Modeling",
+      "title": "Prime Services & Delta One Quantitative Analyst - Director",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4467812347/",
+      "url": "https://www.linkedin.com/jobs/view/4449362187/",
       "date_posted": "2026-09-17",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Sr. Business Analyst - Incentive Compensation Risk Management",
-      "location": "Richmond, VA",
-      "url": "https://www.linkedin.com/jobs/view/4459032120/",
-      "date_posted": "2026-09-16",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Apex Systems",
-      "title": "IT Business Analyst III",
-      "location": "Charlotte, NC",
-      "url": "https://www.linkedin.com/jobs/view/4467901378/",
-      "date_posted": "2026-09-16",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "PwC",
-      "title": "AI & GenAI Data Scientist - Manager",
-      "location": "San Antonio, TX",
-      "url": "https://www.linkedin.com/jobs/view/4459078266/",
-      "date_posted": "2026-09-16",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Apex Systems",
-      "title": "Business Analyst V",
-      "location": "Houston, TX",
-      "url": "https://www.linkedin.com/jobs/view/4467950602/",
-      "date_posted": "2026-09-16",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Randstad Digital Americas",
-      "title": "Business Analyst",
-      "location": "Durham, NC",
-      "url": "https://www.linkedin.com/jobs/view/4467104953/",
-      "date_posted": "2026-09-16",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Senior Business Analyst - Third Party Risk Management (TPRM)",
-      "location": "McLean, VA",
-      "url": "https://www.linkedin.com/jobs/view/4458763379/",
-      "date_posted": "2026-09-15",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Insight Global",
-      "title": "Business Analyst",
-      "location": "Columbus, Ohio Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4465921731/",
-      "date_posted": "2026-09-15",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Wells Fargo",
-      "title": "Analytics Consultant – Financial Crimes (contract)",
-      "location": "Charlotte, NC",
-      "url": "https://www.linkedin.com/jobs/view/4466590092/",
-      "date_posted": "2026-09-15",
       "salary": "",
       "ats": "LinkedIn"
     },
     {
       "company": "Deloitte",
       "title": "Senior QuickSight Analytics Engineer",
-      "location": "Baltimore, MD",
-      "url": "https://www.linkedin.com/jobs/view/4458580979/",
+      "location": "Arlington, VA",
+      "url": "https://www.linkedin.com/jobs/view/4458577916/",
       "date_posted": "2026-09-15",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Deloitte",
-      "title": "GCP Cloud Analytics Engineer",
-      "location": "Greater Indianapolis",
-      "url": "https://www.linkedin.com/jobs/view/4422380439/",
-      "date_posted": "2026-09-15",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Indegene",
-      "title": "Business Analyst-Veeva CRM",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4467777855/",
-      "date_posted": "2026-09-15",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Apex Systems",
-      "title": "Sr. Technical Data Analyst",
-      "location": "Tampa, FL",
-      "url": "https://www.linkedin.com/jobs/view/4466547091/",
-      "date_posted": "2026-09-15",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Part-Time Applied Data Scientist",
-      "location": "Cambridge, MA",
-      "url": "https://www.linkedin.com/jobs/view/4467751256/",
-      "date_posted": "2026-09-15",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Apex Systems",
-      "title": "Applied AI/ML Engineer / Data Scientist",
-      "location": "Juno Beach, FL",
-      "url": "https://www.linkedin.com/jobs/view/4466541201/",
-      "date_posted": "2026-09-15",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Insight Global",
-      "title": "Sr. Data Scientist",
-      "location": "Spring, TX",
-      "url": "https://www.linkedin.com/jobs/view/4466579910/",
-      "date_posted": "2026-09-15",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Insight Global",
-      "title": "Data Scientist IV",
-      "location": "Colorado, United States",
-      "url": "https://www.linkedin.com/jobs/view/4466595388/",
-      "date_posted": "2026-09-15",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Kforce Inc",
-      "title": "Business Analyst",
-      "location": "Covington, KY",
-      "url": "https://www.linkedin.com/jobs/view/4467286935/",
-      "date_posted": "2026-09-14",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Apex Systems",
-      "title": "Data Analyst/Report Writer 3",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4467288893/",
-      "date_posted": "2026-09-14",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Kforce Inc",
-      "title": "ServiceNow & Power BI Reporting Analyst",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4467298193/",
-      "date_posted": "2026-09-14",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Insight Global",
-      "title": "Collections Operations Business Analyst",
-      "location": "Charlotte, NC",
-      "url": "https://www.linkedin.com/jobs/view/4466126091/",
-      "date_posted": "2026-09-14",
       "salary": "",
       "ats": "LinkedIn"
     }
