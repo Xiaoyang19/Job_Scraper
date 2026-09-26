@@ -1,15 +1,10 @@
 name: Priority Employer Digest
 
 on:
-  schedule:
-    # 03:13 UTC ≈ 8 PM PDT (UTC-7); in PST (UTC-8) ~7 PM PT.
-    # Off-hour minute (:13) avoids GitHub Actions throttling at :00.
-    - cron: "13 3 * * *"
-
   workflow_dispatch:
     inputs:
       backfill:
-        description: "One-time backfill: fetch last 30 days of priority-employer LinkedIn instead of 24h (run once when setting up)"
+        description: "One-time backfill: fetch last 30 days of priority-employer LinkedIn"
         required: false
         type: boolean
         default: false
@@ -17,6 +12,25 @@ on:
 concurrency:
   group: job-scraper-commit-push
   cancel-in-progress: false
+  
+# Ctrl + /
+# on:
+#   schedule:
+#     # 03:13 UTC ≈ 8 PM PDT (UTC-7); in PST (UTC-8) ~7 PM PT.
+#     # Off-hour minute (:13) avoids GitHub Actions throttling at :00.
+#     - cron: "13 3 * * *"
+
+#   workflow_dispatch:
+#     inputs:
+#       backfill:
+#         description: "One-time backfill: fetch last 30 days of priority-employer LinkedIn instead of 24h (run once when setting up)"
+#         required: false
+#         type: boolean
+#         default: false
+
+# concurrency:
+#   group: job-scraper-commit-push
+#   cancel-in-progress: false
 
 jobs:
   scrape:
