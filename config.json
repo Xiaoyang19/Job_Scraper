@@ -15,7 +15,7 @@
       "Business Intelligence Engineer", "Campaign Insights Manager", "Reporting Analyst", 
       "Quantitative Analyst", "Senior Data Analyst", "Business Intelligence Developer", 
       "Measurement Analyst", "Insights Analyst", "Analytics Engineer", "Category Analyst", 
-      "Omnichannel", "Data Analyst", "Healthcare Analyst", "Analytics Consultant", "Reporting Analyst",
+      "Omnichannel", "Data Analyst", "Healthcare Analyst", "Healthcare Data Analyst", "Analytics Consultant", "Reporting Analyst",
       "Data Scientist","Marketing Analyst","Product Analyst","Product Analytics",
       "Customer Analytics","Commercial Analytics","Sales Analytics","HEDIS"
     ],
@@ -32,23 +32,11 @@
   "search_terms": {
     "_comment": "Queries sent to the job boards' search boxes. Broader than 'keywords' (which then filters the titles).",
     "linkedin": [
-  "Data Analyst",
-  "Senior Data Analyst",
-  "Business Analyst",
-  "Marketing Analyst",
-  "Marketing Analytics",
-  "Customer Analytics",
-  "Customer Insights",
-  "Product Analyst",
-  "Product Analytics",
-  "Business Intelligence",
-  "BI Analyst",
-  "Analytics Consultant",
-  "Commercial Analytics",
-  "Sales Analytics",
-  "Operations Analyst",
-  "Data Scientist",
-  "HEDIS"
+  "Data Analyst"，"Senior Data Analyst","Business Analyst","Marketing Analyst", "Marketing Analytics",
+  "Customer Analytics","Customer Insights","Product Analyst","Product Analytics",
+  "Business Intelligence","BI Analyst",
+  "Analytics Consultant"， "Commercial Analytics", "Sales Analytics",  "Operations Analyst",
+  "Data Scientist", "HEDIS"，"Healthcare Analyst", "Healthcare Data Analyst"
     ],
     "indeed": [
     ],
