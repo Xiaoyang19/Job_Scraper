@@ -32,10 +32,10 @@
   "search_terms": {
     "_comment": "Queries sent to the job boards' search boxes. Broader than 'keywords' (which then filters the titles).",
     "linkedin": [
-  "Data Analyst"，"Senior Data Analyst","Business Analyst","Marketing Analyst", "Marketing Analytics",
+  "Data Analyst","Senior Data Analyst","Business Analyst","Marketing Analyst","Marketing Analytics",
   "Customer Analytics","Customer Insights","Product Analyst","Product Analytics",
   "Business Intelligence","BI Analyst",
-  "Analytics Consultant"， "Commercial Analytics", "Sales Analytics",  "Operations Analyst",
+  "Analytics Consultant","Commercial Analytics","Sales Analytics","Operations Analyst",
   "Data Scientist", "HEDIS"，"Healthcare Analyst", "Healthcare Data Analyst"
     ],
     "indeed": [
