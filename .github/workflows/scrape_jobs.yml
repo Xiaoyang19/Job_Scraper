@@ -61,6 +61,102 @@ jobs:
           PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
           NOTIFY_MIN_FIT: ${{ vars.NOTIFY_MIN_FIT }}
 
+      - name: Export JSON results to CSV
+        run: |
+          python - <<'PY'
+          import csv
+          import json
+          from pathlib import Path
+
+          def export_csv(json_file, csv_file):
+              json_path = Path(json_file)
+              csv_path = Path(csv_file)
+
+              if not json_path.exists():
+                  print(f"Skipped: {json_path} does not exist")
+                  return
+
+              with json_path.open("r", encoding="utf-8") as f:
+                  data = json.load(f)
+
+              jobs = data.get("jobs", [])
+
+              # Keep every job-level column found anywhere in the JSON
+              columns = []
+              seen = set()
+
+              for job in jobs:
+                  for key in job.keys():
+                      if key not in seen:
+                          seen.add(key)
+                          columns.append(key)
+
+              if not columns:
+                  columns = [
+                      "company",
+                      "title",
+                      "location",
+                      "url",
+                      "date_posted",
+                      "salary",
+                      "ats",
+                  ]
+
+              # Sort by company, then title
+              jobs = sorted(
+                  jobs,
+                  key=lambda j: (
+                      (j.get("company") or "").casefold(),
+                      (j.get("title") or "").casefold(),
+                  ),
+              )
+
+              with csv_path.open(
+                  "w",
+                  newline="",
+                  encoding="utf-8-sig"
+              ) as f:
+                  writer = csv.DictWriter(
+                      f,
+                      fieldnames=columns,
+                      extrasaction="ignore"
+                  )
+                  writer.writeheader()
+
+                  for job in jobs:
+                      row = {}
+
+                      for column in columns:
+                          value = job.get(column, "")
+
+                          if isinstance(value, (list, dict)):
+                              value = json.dumps(
+                                  value,
+                                  ensure_ascii=False
+                              )
+
+                          row[column] = value
+
+                      writer.writerow(row)
+
+              print(
+                  f"Created {csv_path}: "
+                  f"{len(jobs)} jobs, "
+                  f"{len(columns)} columns"
+              )
+
+          export_csv(
+              "output/jobs.json",
+              "output/jobs.csv"
+          )
+
+          export_csv(
+              "output/all_jobs.json",
+              "output/all_jobs.csv"
+          )
+          PY
+
+
       - name: Record workflow run
         run: |
           python - <<'EOF'
