@@ -243,7 +243,13 @@ def fetch(url, *, retries=4, _base_wait=30.0):
     for attempt in range(retries + 1):
         try:
             with urlopen(req, timeout=15) as r:
-                return r.read().decode("utf-8", errors="ignore")
+                result = r.read().decode("utf-8", errors="ignore")     
+                # A successful request means the temporary rate-limit condition
+                # has cleared. Do not keep the +10 second penalty forever.
+                if _RATE_LIMITED:
+                    print("  ✅ LinkedIn request succeeded; clearing rate-limit slowdown")
+                _RATE_LIMITED = False
+                return result
         except HTTPError as e:
             if e.code == 429 and attempt < retries:
                 _RATE_LIMITED = True
@@ -848,8 +854,8 @@ def _linkedin_search_priority_companies(
             )
 
             for term in terms:
+                query_seen_ids = set()
                 for start in range(0, max_results, 10):
-
                     delay = LINKEDIN_REQUEST_DELAY + random.uniform(0, 2)
                     if _RATE_LIMITED:
                         delay += 10
@@ -873,14 +879,22 @@ def _linkedin_search_priority_companies(
                     # the end of results for this company-group/query.
                     if not html.strip():
                         break
-
+                        
                     parsed, raw_count = _parse_linkedin_cards(html)
-
-                    total_raw_cards += raw_count
-                    pages_fetched += 1
-
                     if not raw_count:
                         break
+                    # Detect a stuck/repeating LinkedIn pagination page.
+                    page_ids = {p["id"] for p in parsed}                
+                    if page_ids and page_ids.issubset(query_seen_ids):
+                        print(
+                            f'  🛑 Repeated page detected for "{term}" '
+                            f'at start={start}; stopping this query'
+                        )
+                        break
+                        
+                    query_seen_ids.update(page_ids)         
+                    total_raw_cards += raw_count
+                    pages_fetched += 1
 
                     for p in parsed:
                         if p["id"] in jobs_by_id:
