@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-28 05:47 UTC",
+  "scraped_at": "2026-09-29 06:29 UTC",
   "total": 6,
-  "new_count": 6,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Ramboll",
@@ -58,60 +58,5 @@
       "ats": "LinkedIn"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Ramboll",
-      "title": "Air Quality Managing Consultant",
-      "location": "North Sydney, New South Wales, Australia",
-      "url": "https://www.linkedin.com/jobs/view/4459099254/",
-      "date_posted": "2026-09-25",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "California Department of Toxic Substances Control",
-      "title": "ENVIRONMENTAL SCIENTIST",
-      "location": "Sacramento, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471622641/",
-      "date_posted": "2026-09-24",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "AECOM",
-      "title": "Portfolio Delivery Leader - Environmental Remediation Sector",
-      "location": "Orange, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469090870/",
-      "date_posted": "2026-09-24",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Arcadis",
-      "title": "Staff Environmental Scientist",
-      "location": "Portland, OR",
-      "url": "https://www.linkedin.com/jobs/view/4469744673/",
-      "date_posted": "2026-09-24",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Ramboll",
-      "title": "Principal, Human Health Risk Assessment, Community Health Impact Assessment, Emerging Contaminants",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469222936/",
-      "date_posted": "2026-09-23",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "California Air Resources Board",
-      "title": "Air Pollution Specialist",
-      "location": "Sacramento, CA",
-      "url": "https://www.linkedin.com/jobs/view/4470635615/",
-      "date_posted": "2026-09-22",
-      "salary": "",
-      "ats": "LinkedIn"
-    }
-  ]
+  "new_jobs": []
 }
