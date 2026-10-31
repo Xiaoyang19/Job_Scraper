@@ -1,476 +1,500 @@
 # 🏛 Priority Employers — Job Roles
-*Last updated: 2026-10-19 06:34 UTC*
+*Last updated: 2026-10-31 03:50 UTC*
 
-**118 new role(s)** since last run · 118 total in last 168h
+**124 new role(s)** since last run · 125 total in last 168h
 
-### [Sr. Business Analyst - People Strategy & Analytics](https://www.linkedin.com/jobs/view/4444965440/) — Capital One
-- 📍 **Location:** McLean, VA
-- 🕒 **Posted:** 2026-10-18
+### [Data Scientist, Enterprise Analytics](https://www.linkedin.com/jobs/view/4485648845/) — GitLab
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-31
 
-### [Business Analyst, Cisco Partner Incentive - Hybrid](https://www.linkedin.com/jobs/view/4480875638/) — Cisco
-- 📍 **Location:** Triangle, NC
-- 🕒 **Posted:** 2026-10-18
-
-### [Sr. Business Analyst, Premium Products](https://www.linkedin.com/jobs/view/4436350226/) — Capital One
-- 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-10-18
-
-### [Senior Associate, Data Scientist - Model Risk Audit](https://www.linkedin.com/jobs/view/4445348124/) — Capital One
-- 📍 **Location:** Plano, TX
-- 🕒 **Posted:** 2026-10-18
-
-### [Senior Research Data Scientist, Ads Insight and Measurement](https://www.linkedin.com/jobs/view/4461982107/) — Google
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-10-18
-
-### [Product Analyst (Hybrid NYC / Remote)](https://www.linkedin.com/jobs/view/4427113299/) — Broadridge
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-18
-
-### [Data Reporting and Analytics Consultant IV, Programming](https://www.linkedin.com/jobs/view/4479924602/) — Kaiser Permanente
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-10-18
-
-### [Business Analyst, Relay Trust](https://www.linkedin.com/jobs/view/4480822391/) — Amazon
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-10-17
-
-### [Senior Optimization Data Analyst](https://www.linkedin.com/jobs/view/4461932807/) — Adyen
-- 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-10-17
-
-### [Senior Analyst, Sales Analytics](https://www.linkedin.com/jobs/view/4460748328/) — DoorDash
-- 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-10-17
-
-### [Category Analyst, Category Analytics](https://www.linkedin.com/jobs/view/4480595141/) — Amazon
-- 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-10-17
-
-### [RL Business Analyst, re:Cycle Reverse Logistics](https://www.linkedin.com/jobs/view/4480575961/) — Amazon
-- 📍 **Location:** Nashville, TN
-- 🕒 **Posted:** 2026-10-17
-
-### [Data Scientist / Senior Data Scientist](https://www.linkedin.com/jobs/view/3987281777/) — DoorDash
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-10-17
-
-### [Business Analyst, Network Strategy & Performance](https://www.linkedin.com/jobs/view/4472049701/) — Amazon
+### [Data Scientist III (AmSec), Veritas](https://www.linkedin.com/jobs/view/4485637844/) — Amazon
 - 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-10-17
+- 🕒 **Posted:** 2026-10-31
 
-### [Senior Business Intelligence Engineer, North America Supply Chain Execution Strategy](https://www.linkedin.com/jobs/view/4472287091/) — Amazon
+### [Sr. Data Analyst - Enterprise Risk](https://www.linkedin.com/jobs/view/4432589622/) — Capital One
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-30
+
+### [Data Analyst, RSX](https://www.linkedin.com/jobs/view/4468310729/) — Amazon
+- 📍 **Location:** Bellevue, WA
+- 🕒 **Posted:** 2026-10-30
+
+### [Business Analyst II, GSRC Analytics](https://www.linkedin.com/jobs/view/4485274423/) — Amazon
+- 📍 **Location:** Arlington, VA
+- 🕒 **Posted:** 2026-10-30
+
+### [Business Analyst, AMZL UTR PPT](https://www.linkedin.com/jobs/view/4483439813/) — Amazon
+- 📍 **Location:** Nashville, TN
+- 🕒 **Posted:** 2026-10-30
+
+### [Senior Business Intelligence Engineer, Amazon Leo](https://www.linkedin.com/jobs/view/4459070781/) — Amazon
+- 📍 **Location:** Bellevue, WA
+- 🕒 **Posted:** 2026-10-30
+
+### [Business Analyst, Selling Partner Experience, Selling Partner Experience EASE and Analytics (SPXEA)](https://www.linkedin.com/jobs/view/4468325566/) — Amazon
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-10-30
+
+### [Business Analyst, Amazon Logistics, AMZL OTR Planning](https://www.linkedin.com/jobs/view/4468361716/) — Amazon
+- 📍 **Location:** Nashville, TN
+- 🕒 **Posted:** 2026-10-30
+
+### [Senior Business Analyst- PULSE - Global Payment Network](https://www.linkedin.com/jobs/view/4468855677/) — Capital One
+- 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-10-30
+
+### [Business Intelligence Engineer II, Alexa Devices Business Insights](https://www.linkedin.com/jobs/view/4459178725/) — Amazon
+- 📍 **Location:** Bellevue, WA
+- 🕒 **Posted:** 2026-10-30
+
+### [Sr. Business Intelligence Engineer, Advertising Support and Operations](https://www.linkedin.com/jobs/view/4459634259/) — Amazon
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-30
+
+### [Senior Business Intelligence Engineer, North America Supply Chain Execution Strategy](https://www.linkedin.com/jobs/view/4485261952/) — Amazon
 - 📍 **Location:** Tempe, AZ
-- 🕒 **Posted:** 2026-10-17
+- 🕒 **Posted:** 2026-10-30
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4470393417/) — Figma
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-17
+### [Data Scientist II, Prime Air](https://www.linkedin.com/jobs/view/4468308831/) — Amazon
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-10-30
 
-### [Senior Business Intelligence Engineer, ShipTech Analytics](https://www.linkedin.com/jobs/view/4472054625/) — Amazon
-- 📍 **Location:** Bellevue, WA
-- 🕒 **Posted:** 2026-10-17
-
-### [Senior Research Data Scientist, Search Ads](https://www.linkedin.com/jobs/view/4470749588/) — Google
+### [Data Scientist, Product, Search AI Experiences](https://www.linkedin.com/jobs/view/4484837034/) — Google
 - 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-10-17
+- 🕒 **Posted:** 2026-10-30
 
-### [Sr. Business Intelligence Engineer](https://www.linkedin.com/jobs/view/4443102427/) — DoorDash
-- 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-10-17
+### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4484878414/) — GitHub
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-30
 
-### [IMDb Data Scientist, IMDb Insights and Analytics](https://www.linkedin.com/jobs/view/4480579823/) — Amazon
-- 📍 **Location:** Pittsburgh, PA
-- 🕒 **Posted:** 2026-10-17
+### [Senior Business Data Scientist, AI/ML, Google Cloud](https://www.linkedin.com/jobs/view/4484863039/) — Google
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-10-30
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4463728197/) — CGI
-- 📍 **Location:** Canton, MA
-- 🕒 **Posted:** 2026-10-17
-
-### [Senior Associate, Data Scientist - Credit Card Innovation](https://www.linkedin.com/jobs/view/4472298019/) — Capital One
-- 📍 **Location:** Cambridge, MA
-- 🕒 **Posted:** 2026-10-17
-
-### [Senior Associate, Data Scientist - Applied AI](https://www.linkedin.com/jobs/view/4472291213/) — Capital One
-- 📍 **Location:** McLean, VA
-- 🕒 **Posted:** 2026-10-17
-
-### [Business Analyst / Process Architect Temp](https://www.linkedin.com/jobs/view/4480581268/) — BJ's Wholesale Club
-- 📍 **Location:** Marlborough, MA
-- 🕒 **Posted:** 2026-10-17
-
-### [BI Business Analyst - Remote](https://www.linkedin.com/jobs/view/4480581254/) — Kforce Inc
-- 📍 **Location:** Carlsbad, CA
-- 🕒 **Posted:** 2026-10-17
-
-### [Consumer & Community Insights Data Analyst](https://www.linkedin.com/jobs/view/4480571539/) — Kforce Inc
-- 📍 **Location:** Spring, TX
-- 🕒 **Posted:** 2026-10-17
-
-### [Senior Analytics Engineer - Marketing Data](https://www.linkedin.com/jobs/view/4480564902/) — Kforce Inc
-- 📍 **Location:** Sausalito, CA
-- 🕒 **Posted:** 2026-10-17
-
-### [Data Scientist / Biostatistician](https://www.linkedin.com/jobs/view/4463608270/) — Jefferies
+### [Senior Associate, Data Scientist - US Card (Applied GenAI)](https://www.linkedin.com/jobs/view/4459825305/) — Capital One
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-17
+- 🕒 **Posted:** 2026-10-30
 
-### [Senior Business Analyst](https://www.linkedin.com/jobs/view/4480570556/) — Kforce Inc
-- 📍 **Location:** Philadelphia, PA
-- 🕒 **Posted:** 2026-10-17
+### [Business Analyst - PMS Portfolio](https://www.linkedin.com/jobs/view/4439906685/) — Clearwater Analytics
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-30
 
-### [ServiceNow Business Analyst](https://www.linkedin.com/jobs/view/4426551362/) — Kforce Inc
-- 📍 **Location:** Columbus, OH
-- 🕒 **Posted:** 2026-10-17
+### [ERP Functional Business Analyst – Performance Budgeting (PB)](https://www.linkedin.com/jobs/view/4477460592/) — CGI
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-30
 
-### [Data Analyst (Secret Cleared)](https://www.linkedin.com/jobs/view/4480391860/) — CGI
-- 📍 **Location:** Arlington, VA
-- 🕒 **Posted:** 2026-10-16
+### [ERP Functional Business Analyst – Finance](https://www.linkedin.com/jobs/view/4477454787/) — CGI
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-30
 
-### [Data Analyst, In-Store](https://www.linkedin.com/jobs/view/4443111128/) — DoorDash
-- 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-10-16
+### [Reporting Analyst - North America Customer Development](https://www.linkedin.com/jobs/view/4483909330/) — Kimberly-Clark
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-10-30
 
-### [Senior Business Analyst - Consumer Credit Risk Management, Forecasting & Reporting](https://www.linkedin.com/jobs/view/4463310377/) — Capital One
+### [R and Python Programmer / Data Scientist, Epidemiologic Research (Durational with Benefits)](https://www.linkedin.com/jobs/view/4485351039/) — Kaiser Permanente
+- 📍 **Location:** Pasadena, CA
+- 🕒 **Posted:** 2026-10-30
+
+### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4485604207/) — LinkedIn
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-10-30
+
+### [Data Scientist III](https://www.linkedin.com/jobs/view/4485335429/) — Kaiser Permanente
+- 📍 **Location:** Oakland, CA
+- 🕒 **Posted:** 2026-10-30
+
+### [AI Data Analyst / Analytics Engineer](https://www.linkedin.com/jobs/view/4485258833/) — Kforce Inc
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-10-30
+
+### [Business Analyst](https://www.linkedin.com/jobs/view/4473907875/) — Kforce Inc
+- 📍 **Location:** Leawood, KS
+- 🕒 **Posted:** 2026-10-30
+
+### [Business/Data Analyst - Senior](https://www.linkedin.com/jobs/view/4485629696/) — Kforce Inc
+- 📍 **Location:** San Antonio, TX
+- 🕒 **Posted:** 2026-10-30
+
+### [Fixed Income Business Analyst](https://www.linkedin.com/jobs/view/4468675449/) — Lazard
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-10-30
+
+### [Senior Data Analyst - Risk Product Data](https://www.linkedin.com/jobs/view/4484973889/) — Capital One
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-10-29
+
+### [Senior Data Analyst- Financial Services](https://www.linkedin.com/jobs/view/4484978691/) — Capital One
+- 📍 **Location:** Plano, TX
+- 🕒 **Posted:** 2026-10-29
+
+### [Sr. Business Analyst - Global Payment Network](https://www.linkedin.com/jobs/view/4459018975/) — Capital One
 - 📍 **Location:** McLean, VA
-- 🕒 **Posted:** 2026-10-16
+- 🕒 **Posted:** 2026-10-29
 
-### [Business Analyst, Amazon Logistics, AMZL OTR Planning](https://www.linkedin.com/jobs/view/4480192268/) — Amazon
+### [Senior Business Analyst - Business Analysis for Talent Acquisition](https://www.linkedin.com/jobs/view/4467972292/) — Capital One
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-29
+
+### [Sr. Business Analyst - Incentive Compensation Risk Management](https://www.linkedin.com/jobs/view/4459032120/) — Capital One
+- 📍 **Location:** Richmond, VA
+- 🕒 **Posted:** 2026-10-29
+
+### [Sr Business Analyst, Commercial Corporate Bank](https://www.linkedin.com/jobs/view/4467970327/) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-29
+
+### [Business Intelligence Developer](https://www.linkedin.com/jobs/view/4485255346/) — CGI
+- 📍 **Location:** Arlington, VA
+- 🕒 **Posted:** 2026-10-29
+
+### [Business Data Scientist, Trust and Safety, YouTube](https://www.linkedin.com/jobs/view/4475432729/) — Google
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-10-29
+
+### [Senior Product Data Scientist, Pixel Growth, Google Store](https://www.linkedin.com/jobs/view/4477113532/) — Google
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-10-29
+
+### [AI Analytics Engineer - Traffic](https://www.linkedin.com/jobs/view/4483070067/) — eBay
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-10-29
+
+### [Senior Data Scientist III, Community Intelligence Science & Engineering](https://www.linkedin.com/jobs/view/4476948831/) — Amazon
 - 📍 **Location:** Nashville, TN
-- 🕒 **Posted:** 2026-10-16
+- 🕒 **Posted:** 2026-10-29
 
-### [Program Reporting Analyst](https://www.linkedin.com/jobs/view/4462749008/) — CGI
-- 📍 **Location:** Lafayette, LA
-- 🕒 **Posted:** 2026-10-16
+### [Data Scientist III](https://www.linkedin.com/jobs/view/4484782083/) — Amazon
+- 📍 **Location:** Bellevue, WA
+- 🕒 **Posted:** 2026-10-29
 
-### [Data Scientist, Adobe.com](https://www.linkedin.com/jobs/view/4470064847/) — Adobe
+### [Data Analyst](https://www.linkedin.com/jobs/view/4484558552/) — Akkodis
+- 📍 **Location:** Fountain Valley, CA
+- 🕒 **Posted:** 2026-10-29
+
+### [Expert Data Scientist, Fraud Risk Detection](https://www.linkedin.com/jobs/view/4484799237/) — Experian
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-29
+
+### [Senior Business Analyst](https://www.linkedin.com/jobs/view/4484538661/) — Harvey Nash
+- 📍 **Location:** O'Fallon, MO
+- 🕒 **Posted:** 2026-10-29
+
+### [Healthcare Business Analyst](https://www.linkedin.com/jobs/view/4484516795/) — Harvey Nash
+- 📍 **Location:** Frankfort, KY
+- 🕒 **Posted:** 2026-10-29
+
+### [Business Analyst](https://www.linkedin.com/jobs/view/4484563374/) — Harvey Nash
+- 📍 **Location:** Greater St. Louis
+- 🕒 **Posted:** 2026-10-29
+
+### [AFC Modelling - Data Scientist (Transaction Monitoring) - Vice President](https://www.linkedin.com/jobs/view/4476944770/) — Deutsche Bank
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-29
+
+### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4483050929/) — Charles Schwab
+- 📍 **Location:** Southlake, TX
+- 🕒 **Posted:** 2026-10-29
+
+### [Lead IS Business Analyst, Governance](https://www.linkedin.com/jobs/view/4467790726/) — The J.M. Smucker Co.
+- 📍 **Location:** Orrville, OH
+- 🕒 **Posted:** 2026-10-29
+
+### [Sr. Data Analyst](https://www.linkedin.com/jobs/view/4476756216/) — Capital One
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-10-28
+
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4484489611/) — Capital One
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-28
+
+### [Senior Data Analyst- Card](https://www.linkedin.com/jobs/view/4484483693/) — Capital One
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-28
+
+### [Senior Data Analyst - Analytics & Transformation](https://www.linkedin.com/jobs/view/4448124272/) — Capital One
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-28
+
+### [Business Analyst, Listing Analytics](https://www.linkedin.com/jobs/view/4467403604/) — Amazon
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-10-28
+
+### [Senior Data Scientist, Finance & Strategy](https://www.linkedin.com/jobs/view/4474420740/) — Chime
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-16
+- 🕒 **Posted:** 2026-10-28
 
-### [Sr. Business Analyst - Business Cards & Payments](https://www.linkedin.com/jobs/view/4435129153/) — Capital One
-- 📍 **Location:** McLean, VA
-- 🕒 **Posted:** 2026-10-16
-
-### [Business Intelligence Developer, Cloud Finance](https://www.linkedin.com/jobs/view/4469686109/) — Google
-- 📍 **Location:** Kirkland, WA
-- 🕒 **Posted:** 2026-10-16
-
-### [Sr. Business Analyst, Commercial Real Estate](https://www.linkedin.com/jobs/view/4480382910/) — Capital One
-- 📍 **Location:** Richmond, VA
-- 🕒 **Posted:** 2026-10-16
-
-### [Business Analyst, Network Strategy and Performance](https://www.linkedin.com/jobs/view/4471811539/) — Amazon
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-10-16
-
-### [Senior Analytics Engineer, AI & DX Analytics](https://www.linkedin.com/jobs/view/4471815087/) — Block
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-16
-
-### [Research Data Scientist, Magic Eye](https://www.linkedin.com/jobs/view/4479379970/) — Google
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-10-16
-
-### [Data Scientist, Risk](https://www.linkedin.com/jobs/view/4436167407/) — Gusto
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-10-16
-
-### [Senior Associate, Data Scientist - Card Intelligence](https://www.linkedin.com/jobs/view/4480502071/) — Capital One
-- 📍 **Location:** Cambridge, MA
-- 🕒 **Posted:** 2026-10-16
-
-### [Product Data Scientist, YouTube Search and Viewer AI](https://www.linkedin.com/jobs/view/4479355190/) — Google
-- 📍 **Location:** San Bruno, CA
-- 🕒 **Posted:** 2026-10-16
-
-### [Sr. Proxy Campaign Business Analyst (Hybrid - Edgewood, NY or Boston, MA)](https://www.linkedin.com/jobs/view/4471801468/) — Broadridge
-- 📍 **Location:** Edgewood, NY
-- 🕒 **Posted:** 2026-10-16
-
-### [Senior Business Analyst](https://www.linkedin.com/jobs/view/4480195958/) — CGI
-- 📍 **Location:** Fairfax, VA
-- 🕒 **Posted:** 2026-10-16
-
-### [Momentum Mid level Business Analyst](https://www.linkedin.com/jobs/view/4480301651/) — CGI
-- 📍 **Location:** Fairfax, VA
-- 🕒 **Posted:** 2026-10-16
-
-### [Senior Business Analyst / Business Architect, INOW](https://www.linkedin.com/jobs/view/4463137008/) — Guidewire Software
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-16
-
-### [Data Reporting and Analytics Consultant IV, Business Intelligence (NICE CXone)](https://www.linkedin.com/jobs/view/4468798249/) — Kaiser Permanente
-- 📍 **Location:** Greensboro, NC
-- 🕒 **Posted:** 2026-10-16
-
-### [Remote Sr. Data Business Analyst (Mortgage)](https://www.linkedin.com/jobs/view/4471803242/) — Kforce Inc
-- 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-10-16
-
-### [SAP Master Data Analyst](https://www.linkedin.com/jobs/view/4480528409/) — Kelly
-- 📍 **Location:** Malvern, PA
-- 🕒 **Posted:** 2026-10-16
-
-### [Business Analyst](https://www.linkedin.com/jobs/view/4480396022/) — Kelly
-- 📍 **Location:** Somerset, NJ
-- 🕒 **Posted:** 2026-10-16
-
-### [Digital Marketing Analyst](https://www.linkedin.com/jobs/view/4479616472/) — IXL Learning
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-10-16
-
-### [ERP Deployment Business Analyst](https://www.linkedin.com/jobs/view/4480509885/) — Kforce Inc
-- 📍 **Location:** Oakwood, GA
-- 🕒 **Posted:** 2026-10-16
-
-### [Senior Technical Business Analyst](https://www.linkedin.com/jobs/view/4480511869/) — Kforce Inc
+### [Legal Data Analyst - Data Enrichment](https://www.linkedin.com/jobs/view/4474018757/) — Bloomberg
 - 📍 **Location:** Princeton, NJ
-- 🕒 **Posted:** 2026-10-16
+- 🕒 **Posted:** 2026-10-28
 
-### [Business Analyst](https://www.linkedin.com/jobs/view/4480512875/) — Kforce Inc
-- 📍 **Location:** Boca Raton, FL
-- 🕒 **Posted:** 2026-10-16
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4477319769/) — Akkodis
-- 📍 **Location:** Washington, DC
-- 🕒 **Posted:** 2026-10-15
-
-### [Sr. Business Analyst - Talent Marketing Analytics](https://www.linkedin.com/jobs/view/4479829960/) — Capital One
-- 📍 **Location:** McLean, VA
-- 🕒 **Posted:** 2026-10-15
-
-### [Senior Business Analyst - Credit Reporting & Performance](https://www.linkedin.com/jobs/view/4453118946/) — Capital One
-- 📍 **Location:** McLean, VA
-- 🕒 **Posted:** 2026-10-15
-
-### [Business Intelligence Engineer, Amazon Freight](https://www.linkedin.com/jobs/view/4479716900/) — Amazon
-- 📍 **Location:** Bellevue, WA
-- 🕒 **Posted:** 2026-10-15
-
-### [Compliance Insights Analyst - Corporate Compliance](https://www.linkedin.com/jobs/view/4477063687/) — DICK'S Sporting Goods
-- 📍 **Location:** Coraopolis, PA
-- 🕒 **Posted:** 2026-10-15
-
-### [Product Management Business Analyst](https://www.linkedin.com/jobs/view/4479276025/) — Hewlett Packard Enterprise
-- 📍 **Location:** Bloomington, MN
-- 🕒 **Posted:** 2026-10-15
-
-### [Partner Growth Insights Analyst](https://www.linkedin.com/jobs/view/4479163829/) — Harvey Nash
-- 📍 **Location:** Culver City, CA
-- 🕒 **Posted:** 2026-10-15
-
-### [Senior Data Scientist, GTM Data Science](https://www.linkedin.com/jobs/view/4405724683/) — Adobe
+### [AI Data Scientist Technical Leader (Hybrid)](https://www.linkedin.com/jobs/view/4484759370/) — Cisco
 - 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-15
+- 🕒 **Posted:** 2026-10-28
 
-### [Business Intelligence Engineer, Consumables Insights and Analytics](https://www.linkedin.com/jobs/view/4479818637/) — Amazon
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-10-15
+### [Senior Business Data Scientist, Marketing Science, Measurement and Optimization](https://www.linkedin.com/jobs/view/4476597418/) — Google
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-10-28
 
-### [Revenue Insights Analyst, Ads Finance P&L](https://www.linkedin.com/jobs/view/4469713898/) — Google
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-10-15
-
-### [Business Intelligence Engineer, Worldwide Defect Elimination Analytics](https://www.linkedin.com/jobs/view/4471119658/) — Amazon
-- 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-10-15
-
-### [Measurement Data Scientist](https://www.linkedin.com/jobs/view/4454342815/) — AppLovin
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-10-15
-
-### [Business Data Scientist, Google Analytics](https://www.linkedin.com/jobs/view/4469712965/) — Google
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-10-15
-
-### [Business Data Scientist, Ads Marketing Analytics](https://www.linkedin.com/jobs/view/4479174569/) — Google
-- 📍 **Location:** Kirkland, WA
-- 🕒 **Posted:** 2026-10-15
-
-### [Senior Quantitative Analyst - Global Finance](https://www.linkedin.com/jobs/view/4471486357/) — Capital One
+### [Senior Associate, Data Scientist - Bureau Data Strategy](https://www.linkedin.com/jobs/view/4484492336/) — Capital One
 - 📍 **Location:** McLean, VA
-- 🕒 **Posted:** 2026-10-15
+- 🕒 **Posted:** 2026-10-28
 
-### [Sr Data Scientist- Wealth Management](https://www.linkedin.com/jobs/view/4479734452/) — Citizens
-- 📍 **Location:** Columbus, OH
-- 🕒 **Posted:** 2026-10-15
+### [Business Analyst](https://www.linkedin.com/jobs/view/4467434485/) — CGI
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-10-28
 
-### [Senior Industrial Analytics Engineer](https://www.linkedin.com/jobs/view/4462082914/) — Amazon
-- 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-10-15
-
-### [Data Scientist , Amazon Transportation Services (NEST)](https://www.linkedin.com/jobs/view/4462096279/) — Amazon
-- 📍 **Location:** Bellevue, WA
-- 🕒 **Posted:** 2026-10-15
-
-### [Business Data Scientist, Global Affairs](https://www.linkedin.com/jobs/view/4469317954/) — Google
-- 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-10-15
-
-### [Research Data Scientist, Ads Metrics, Ads Experiences](https://www.linkedin.com/jobs/view/4469720629/) — Google
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-10-15
-
-### [Senior Data Scientist, Product](https://www.linkedin.com/jobs/view/4480185251/) — Coinbase
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-15
-
-### [Research Data Scientist, Search Ads in AI Experiences](https://www.linkedin.com/jobs/view/4460613383/) — Google
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-10-15
-
-### [Data Scientist I, PXT Central Science](https://www.linkedin.com/jobs/view/4479811755/) — Amazon
-- 📍 **Location:** Boston, MA
-- 🕒 **Posted:** 2026-10-15
-
-### [Sr. Specialist - Business Analyst](https://www.linkedin.com/jobs/view/4477326376/) — Charles Schwab
-- 📍 **Location:** Westlake, TX
-- 🕒 **Posted:** 2026-10-15
-
-### [Lead Data Scientist](https://www.linkedin.com/jobs/view/4337959861/) — DoorDash
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-10-15
-
-### [Data Scientist, North America Sort Centers, Amazon Transportation Services](https://www.linkedin.com/jobs/view/4471125523/) — Amazon
-- 📍 **Location:** Bellevue, WA
-- 🕒 **Posted:** 2026-10-15
-
-### [Lead Research Data Scientist (Decision Sciences IQ Team)](https://www.linkedin.com/jobs/view/4434169389/) — Epsilon
-- 📍 **Location:** Boston, MA
-- 🕒 **Posted:** 2026-10-15
-
-### [Business Analyst - Life & Annuity](https://www.linkedin.com/jobs/view/4479747797/) — CGI
-- 📍 **Location:** New Brunswick, NJ
-- 🕒 **Posted:** 2026-10-15
-
-### [Business Analyst 2](https://www.linkedin.com/jobs/view/4479179219/) — Allegis Global Solutions
-- 📍 **Location:** Plano, TX
-- 🕒 **Posted:** 2026-10-15
-
-### [Data Scientist – Equity Research](https://www.linkedin.com/jobs/view/4470973973/) — Jefferies
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-15
-
-### [Senior Data Analyst - US Card](https://www.linkedin.com/jobs/view/4470960059/) — Capital One
-- 📍 **Location:** McLean, VA
-- 🕒 **Posted:** 2026-10-14
-
-### [Business Intelligence Engineer, Leo Global Customer Operations](https://www.linkedin.com/jobs/view/4479571471/) — Amazon
-- 📍 **Location:** Bellevue, WA
-- 🕒 **Posted:** 2026-10-14
-
-### [Business Intelligence Engineer, Forecasting & Labs Analytics](https://www.linkedin.com/jobs/view/4470639830/) — Amazon
-- 📍 **Location:** Bellevue, WA
-- 🕒 **Posted:** 2026-10-14
-
-### [Scaled Insights Analyst, Intelligence and Scaled Insights, YouTube](https://www.linkedin.com/jobs/view/4469431728/) — Google
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-14
-
-### [Data Scientist II, Device Economics](https://www.linkedin.com/jobs/view/4470643559/) — Amazon
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-10-14
-
-### [Research Data Scientist, YouTube Music and Premium](https://www.linkedin.com/jobs/view/4478451424/) — Google
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-10-14
-
-### [Data Scientist II, Data Scientist, Decision Science](https://www.linkedin.com/jobs/view/4470937063/) — Amazon
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-10-14
-
-### [Senior Associate, Data Scientist - Beyond AML Modeling & Innovations](https://www.linkedin.com/jobs/view/4470960051/) — Capital One
-- 📍 **Location:** Richmond, VA
-- 🕒 **Posted:** 2026-10-14
-
-### [Lead Data Scientist, Credit Risk](https://www.linkedin.com/jobs/view/4476496943/) — Chime
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-10-14
-
-### [Specialist, Product Analyst](https://www.linkedin.com/jobs/view/4479578558/) — BNY
-- 📍 **Location:** Berwyn, PA
-- 🕒 **Posted:** 2026-10-14
-
-### [Momentum Business Analyst](https://www.linkedin.com/jobs/view/4470678149/) — CGI
+### [Customer Insights Lead, Global Logistics Domestic First Mile](https://www.linkedin.com/jobs/view/4476501889/) — Amazon
 - 📍 **Location:** Arlington, VA
-- 🕒 **Posted:** 2026-10-14
+- 🕒 **Posted:** 2026-10-28
 
-### [Business Analyst - FLOWCAL](https://www.linkedin.com/jobs/view/4476675702/) — Akkodis
-- 📍 **Location:** Houston, TX
-- 🕒 **Posted:** 2026-10-14
+### [Senior Associate, Data Scientist -  Consumer Credit Risk Models and Data](https://www.linkedin.com/jobs/view/4448835101/) — Capital One
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-28
 
-### [Infrastructure Data Analyst](https://www.linkedin.com/jobs/view/4479556708/) — Kforce Inc
-- 📍 **Location:** West Palm Beach, FL
-- 🕒 **Posted:** 2026-10-14
+### [Senior Associate, Data Scientist - Card Intelligence](https://www.linkedin.com/jobs/view/4467968356/) — Capital One
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-28
 
-### [Sr. Business Analyst, Global Sales Compensation Reporting & Insights](https://www.linkedin.com/jobs/view/4479565648/) — LinkedIn
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-10-14
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4479570012/) — Kforce Inc
-- 📍 **Location:** Houston, TX
-- 🕒 **Posted:** 2026-10-14
-
-### [Marketing Analytics Analyst](https://www.linkedin.com/jobs/view/4479718351/) — Kforce Inc
-- 📍 **Location:** St Louis, MO
-- 🕒 **Posted:** 2026-10-14
-
-### [ICQA Data Analyst](https://www.linkedin.com/jobs/view/4478724103/) — Amazon
-- 📍 **Location:** Hollister, CA
-- 🕒 **Posted:** 2026-10-13
-
-### [Business Analyst, Pricing Strategy, Whole Foods Market](https://www.linkedin.com/jobs/view/4478789718/) — Amazon
+### [Data Scientist , Reactive Transfers](https://www.linkedin.com/jobs/view/4476512393/) — Amazon
 - 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-10-13
+- 🕒 **Posted:** 2026-10-28
 
-### [Business Analyst](https://www.linkedin.com/jobs/view/4461248489/) — Esri
-- 📍 **Location:** Redlands, CA
-- 🕒 **Posted:** 2026-10-13
+### [Senior Associate, Data Scientist - US Card DFS Integration](https://www.linkedin.com/jobs/view/4484483701/) — Capital One
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-10-28
 
-### [Data Scientist (Houston, Texas)](https://www.linkedin.com/jobs/view/4478708452/) — Hewlett Packard Enterprise
-- 📍 **Location:** Houston, TX
-- 🕒 **Posted:** 2026-10-13
-
-### [Senior Business Intelligence Engineer III, Rapid and Rural Logistics](https://www.linkedin.com/jobs/view/4479003099/) — Amazon
-- 📍 **Location:** Bellevue, WA
-- 🕒 **Posted:** 2026-10-13
-
-### [Senior Research Data Scientist, YouTube Ads](https://www.linkedin.com/jobs/view/4477966365/) — Google
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-10-13
-
-### [Expert Data Scientist, Fraud Risk Detection](https://www.linkedin.com/jobs/view/4478747149/) — Experian
+### [Senior Data Scientist, Fraud Risk Detection](https://www.linkedin.com/jobs/view/4484413487/) — Experian
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-13
+- 🕒 **Posted:** 2026-10-28
 
-### [Vice President, Subaccoutning Product Analyst](https://www.linkedin.com/jobs/view/4479084267/) — BNY
-- 📍 **Location:** Lake Mary, FL
-- 🕒 **Posted:** 2026-10-13
+### [Senior Data Scientist, Guest & Host](https://www.linkedin.com/jobs/view/4484489617/) — Airbnb
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-28
 
-### [Product Analyst — Virtual Events and Shareholder Meetings](https://www.linkedin.com/jobs/view/4479067020/) — Broadridge
-- 📍 **Location:** Edgewood, NY
-- 🕒 **Posted:** 2026-10-13
+### [Business Analyst (Transportation Systems)](https://www.linkedin.com/jobs/view/4484756367/) — CGI
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-10-28
 
-### [Business and Marketing Data Scientist](https://www.linkedin.com/jobs/view/4477920347/) — Google
-- 📍 **Location:** Boulder, CO
-- 🕒 **Posted:** 2026-10-12
+### [Junior-Level Business Analyst](https://www.linkedin.com/jobs/view/4456447472/) — CGI
+- 📍 **Location:** North Charleston, SC
+- 🕒 **Posted:** 2026-10-28
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4477925117/) — Google
+### [Business Analyst - Local to Pittsburgh, Cleveland, Dallas, Phoenix, or Birmingham](https://www.linkedin.com/jobs/view/4476384087/) — CGI
+- 📍 **Location:** Pittsburgh, PA
+- 🕒 **Posted:** 2026-10-28
+
+### [Data Engineer, Global Logistics Product Analytics Team](https://www.linkedin.com/jobs/view/4484721723/) — Amazon
+- 📍 **Location:** Bellevue, WA
+- 🕒 **Posted:** 2026-10-28
+
+### [Business Analyst – Trading Operations / Data & Reporting (W2 Only)](https://www.linkedin.com/jobs/view/4484728689/) — Kelly
+- 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-10-28
+
+### [Analytics Data Scientist](https://www.linkedin.com/jobs/view/4484704673/) — Kforce Inc
+- 📍 **Location:** Brooklyn, NY
+- 🕒 **Posted:** 2026-10-28
+
+### [Business Data Analyst IV](https://www.linkedin.com/jobs/view/4484281344/) — Kforce Inc
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-10-28
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4484762613/) — Kforce Inc
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-10-28
+
+### [Business Analytics Engineer / Data Engineer](https://www.linkedin.com/jobs/view/4484760607/) — Kforce Inc
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-10-28
+
+### [Data Scientist – Formulation & Product Development](https://www.linkedin.com/jobs/view/4484105339/) — Kelly
+- 📍 **Location:** Clark, NJ
+- 🕒 **Posted:** 2026-10-28
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4484285352/) — Kforce Inc
+- 📍 **Location:** Miami, FL
+- 🕒 **Posted:** 2026-10-28
+
+### [Sr. Technical Data Analyst](https://www.linkedin.com/jobs/view/4482228631/) — Clearwater Analytics
+- 📍 **Location:** Boise, ID
+- 🕒 **Posted:** 2026-10-27
+
+### [Senior Business Data Scientist, Trust and Safety Business Analytics](https://www.linkedin.com/jobs/view/4483814183/) — Google
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-10-27
+
+### [Senior Business Analyst- Third Party Issuing-Global Payment Network](https://www.linkedin.com/jobs/view/4484083653/) — Capital One
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-10-27
+
+### [Business Intelligence Engineer, Amazon Customer Service](https://www.linkedin.com/jobs/view/4483787238/) — Amazon
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-10-27
+
+### [Business Intelligence Engineer II, SCOT-FO, PACMAN](https://www.linkedin.com/jobs/view/4484061381/) — Amazon
+- 📍 **Location:** Bellevue, WA
+- 🕒 **Posted:** 2026-10-27
+
+### [Senior Business Analyst, Deal Economics & Analytics](https://www.linkedin.com/jobs/view/4476305473/) — Capital One
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-27
+
+### [Research Data Scientist, Learning Frontiers](https://www.linkedin.com/jobs/view/4474689916/) — Google
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-10-27
+
+### [Analytics Engineer, HR Analytics](https://www.linkedin.com/jobs/view/4476135494/) — Elastic
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-27
+
+### [Senior Product Data Scientist, Discover Experience](https://www.linkedin.com/jobs/view/4474692823/) — Google
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-10-27
+
+### [Product Analyst, Digital Asset Platform](https://www.linkedin.com/jobs/view/4467220609/) — Broadridge
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-12
+- 🕒 **Posted:** 2026-10-27
 
-### [Vice President, Quantitative Analyst](https://www.linkedin.com/jobs/view/4478589005/) — BNY
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-12
-
-### [Analytics Engineer](https://www.linkedin.com/jobs/view/4477916471/) — Google
+### [Data Scientist, OTS - Data ANCHOR Team](https://www.linkedin.com/jobs/view/4484070224/) — Amazon
 - 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-10-12
+- 🕒 **Posted:** 2026-10-27
 
-### [Quantitative Analyst, CLO Portfolio Management](https://www.linkedin.com/jobs/view/4477907374/) — Jefferies
+### [Senior Data Scientist, Product](https://www.linkedin.com/jobs/view/4484265497/) — Coinbase
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Scientist II, POE](https://www.linkedin.com/jobs/view/4483785074/) — Amazon
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Scientist , Leo Customer Terminal](https://www.linkedin.com/jobs/view/4476172957/) — Amazon
+- 📍 **Location:** Redmond, WA
+- 🕒 **Posted:** 2026-10-27
+
+### [Senior Associate, Data Scientist - People Strategy & Analytics](https://www.linkedin.com/jobs/view/4484255358/) — Capital One
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-27
+
+### [Senior Data Scientist, First Line Risk](https://www.linkedin.com/jobs/view/4476100381/) — Block
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-10-27
+
+### [Lead Research Data Scientist, Learning Frontiers](https://www.linkedin.com/jobs/view/4474904364/) — Google
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-10-27
+
+### [Treasury Quantitative Analyst](https://www.linkedin.com/jobs/view/4483612462/) — Google
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-10-27
+
+### [Marketing Analyst (SEO)](https://www.linkedin.com/jobs/view/4483654958/) — Harvey Nash
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-10-27
+
+### [Vice President, Payments Product Analyst](https://www.linkedin.com/jobs/view/4484249375/) — BNY
+- 📍 **Location:** Pittsburgh, PA
+- 🕒 **Posted:** 2026-10-27
+
+### [Privacy Product Analyst](https://www.linkedin.com/jobs/view/4473653813/) — DICK'S Sporting Goods
+- 📍 **Location:** Coraopolis, PA
+- 🕒 **Posted:** 2026-10-27
+
+### [Analytics Engineer - Finance Systems](https://www.linkedin.com/jobs/view/4483762754/) — Kforce Inc
+- 📍 **Location:** Tampa, FL
+- 🕒 **Posted:** 2026-10-27
+
+### [ServiceNow & Power BI Reporting Analyst](https://www.linkedin.com/jobs/view/4467298193/) — Kforce Inc
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-12
+- 🕒 **Posted:** 2026-10-27
 
-### [Technical Business Analyst - Lead](https://www.linkedin.com/jobs/view/4478552580/) — Kforce Inc
+### [Data Scientist](https://www.linkedin.com/jobs/view/4483683711/) — Kelly
+- 📍 **Location:** Clark, NJ
+- 🕒 **Posted:** 2026-10-27
+
+### [Business Analyst / Scrum Master](https://www.linkedin.com/jobs/view/4475033801/) — Kforce Inc
+- 📍 **Location:** Boca Raton, FL
+- 🕒 **Posted:** 2026-10-27
+
+### [Business Analyst II, WW Grocery Store Private Brands](https://www.linkedin.com/jobs/view/4475573398/) — Amazon
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-10-26
+
+### [Business Intelligence Developer, Cloud Finance](https://www.linkedin.com/jobs/view/4483265651/) — Google
+- 📍 **Location:** Kirkland, WA
+- 🕒 **Posted:** 2026-10-26
+
+### [Data Scientist, Amazon Ads Marketing Decision Science](https://www.linkedin.com/jobs/view/4483723475/) — Amazon
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-26
+
+### [Data Scientist, LM Planning, LM Science & Analytics Automation](https://www.linkedin.com/jobs/view/4457815517/) — Amazon
+- 📍 **Location:** Bellevue, WA
+- 🕒 **Posted:** 2026-10-26
+
+### [Business Analyst 3](https://www.linkedin.com/jobs/view/4483732564/) — Allegis Global Solutions
 - 📍 **Location:** Plano, TX
-- 🕒 **Posted:** 2026-10-12
+- 🕒 **Posted:** 2026-10-26
+
+### [Senior Analytics Engineer – dbt & Snowflake](https://www.linkedin.com/jobs/view/4483564899/) — Kelly
+- 📍 **Location:** Spring, TX
+- 🕒 **Posted:** 2026-10-26
+
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4483721044/) — Kforce Inc
+- 📍 **Location:** Tampa, FL
+- 🕒 **Posted:** 2026-10-26
+
+### [Sr. Business Intelligence Engineer, B2C, Amazon Leo](https://www.linkedin.com/jobs/view/4457394012/) — Amazon
+- 📍 **Location:** Bellevue, WA
+- 🕒 **Posted:** 2026-10-25
+
+### [Sr. Data Scientist, OTS - Data ANCHOR Team](https://www.linkedin.com/jobs/view/4466755156/) — Amazon
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-10-25
+
+### [Product Analyst, Digital Assets - Wealth Management & Trading Solutions (Hybrid - NYC)](https://www.linkedin.com/jobs/view/4438676574/) — Broadridge
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-25
+
+### [Senior Data Analyst - Enterprise Services](https://www.linkedin.com/jobs/view/4466001714/) — Capital One
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-10-24
+
+### [Senior Data Analyst - Emerging Payments & AirKey](https://www.linkedin.com/jobs/view/4483322822/) — Capital One
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-24
+
+### [Senior Business Analyst, Credit Loss Forecast](https://www.linkedin.com/jobs/view/4483338321/) — Capital One
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-24
+
+### [Senior Data Scientist, Growth Forecasting](https://www.linkedin.com/jobs/view/4475036004/) — Duolingo
+- 📍 **Location:** Pittsburgh, PA
+- 🕒 **Posted:** 2026-10-24
+
+### [Senior Data Scientist, User Growth](https://www.linkedin.com/jobs/view/4475033030/) — Duolingo
+- 📍 **Location:** Pittsburgh, PA
+- 🕒 **Posted:** 2026-10-24
+
+### [Senior Data Scientist, Customer Experience and Business Trends](https://www.linkedin.com/jobs/view/4465899089/) — Amazon
+- 📍 **Location:** Arlington, VA
+- 🕒 **Posted:** 2026-10-24
+
+### [Data Scientist III, Research](https://www.linkedin.com/jobs/view/4473392677/) — Google
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-10-24
+
+### [Data Scientist, Automated Vehicle Testing](https://www.linkedin.com/jobs/view/4457030336/) — Amazon
+- 📍 **Location:** Redmond, WA
+- 🕒 **Posted:** 2026-10-24
+
+### [Senior Associate, Data Scientist - Applied AI (Financial Services)](https://www.linkedin.com/jobs/view/4475336134/) — Capital One
+- 📍 **Location:** Plano, TX
+- 🕒 **Posted:** 2026-10-24
+
+### [Senior Business Analyst, TPRM](https://www.linkedin.com/jobs/view/4463495888/) — Chime
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-24
+
+### [Senior Workday Reporting Analyst](https://www.linkedin.com/jobs/view/4482629090/) — Kelly
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-24
